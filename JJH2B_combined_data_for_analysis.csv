@@ -1,0 +1,527 @@
+Employee ID,First Name,Last Name,Email Address,Department,Job Level,Tenure,Pay Rate,Gender,Ethnicity,Tenure Date,Report Effective Date,Status,Annual Salary,Education,Tenure_Today
+427,Erik,Sanders,erik.sanders@widgetcorp.com,Complaince,Associate,4.894980205,49.94,Male,4,2014-02-07,2018-12-31,Active,103875.2,Bachelor,6.79
+848,Christina,Blaze,christina.blaze@widgetcorp.com,Complaince,VP,7.400493236,48.62,Female,1,2011-08-06,2018-12-31,Active,101129.6,Some College,9.3
+63,Drue,Hightower,drue.hightower@widgetcorp.com,Complaince,Associate,2.728467261,37.87,Male,3,2016-04-08,2018-12-31,Active,78769.6,High School Diploma,4.62
+305,Edgar,Lopez,edgar.lopez@widgetcorp.com,Complaince,Analyst,4.32405256,37.33,Male,4,2014-09-03,2018-12-31,Active,77646.4,Some College,6.22
+513,Marianne,Rem,marianne.rem@widgetcorp.com,Complaince,Associate,5.307411252,34.07,Female,2,2013-09-09,2018-12-31,Active,70865.6,Master,7.2
+640,Alexander,Manganello,alexander.manganello@widgetcorp.com,Complaince,Analyst,5.913296776,31.8,Male,2,2013-01-31,2018-12-31,Active,66144,High School Diploma,7.81
+17,William,Torain,william.torain@widgetcorp.com,Complaince,Analyst,1.949402912,28.07,Male,3,2017-01-17,2018-12-31,Active,58385.6,Bachelor,3.84
+196,Kelsey,Nguyen,kelsey.nguyen@widgetcorp.com,Complaince,Analyst,3.765248318,27.75,Female,2,2015-03-26,2018-12-31,Active,57720,Master,5.66
+33,Rachelle,Thomas,rachelle.thomas@widgetcorp.com,Complaince,Analyst,2.355757622,27.17,Female,1,2016-08-22,2018-12-31,Active,56513.6,Some College,4.25
+178,Husniyya,al-Nazir,husniyya.al-nazir@widgetcorp.com,Complaince,Analyst,3.682307369,26.93,Female,6,2015-04-26,2018-12-31,Active,56014.4,Some College,5.57
+961,Andres,Orozco,andres.orozco@widgetcorp.com,Design,Executive,9.084414862,91.04,Male,4,2009-11-29,2018-12-31,Active,189363.2,Master,10.98
+947,Taajuddeen,el-Hannan,taajuddeen.el-hannan@widgetcorp.com,Design,Director,8.694525136,70.08,Male,6,2010-04-21,2018-12-31,Active,145766.4,High School Diploma,10.59
+724,Waddaah,al-Kazemi,waddaah.al-kazemi@widgetcorp.com,Design,VP,6.402610754,65.37,Male,6,2012-08-05,2018-12-31,Active,135969.6,PhD,8.3
+953,Jeremiah,Chen,jeremiah.chen@widgetcorp.com,Design,Director,8.844825378,63.6,Male,2,2010-02-25,2018-12-31,Active,132288,High School Diploma,10.74
+994,Kalyn,Kennedy,kalyn.kennedy@widgetcorp.com,Design,Executive,10.58952762,53.75,Female,5,2008-05-29,2018-12-31,Active,111800,Some College,12.48
+808,John,Bordeaux,john.bordeaux@widgetcorp.com,Design,Manager,6.969225962,53,Male,5,2012-01-11,2018-12-31,Active,110240,Some College,8.86
+74,Baasim,el-Naqvi,baasim.el-naqvi@widgetcorp.com,Design,Analyst,2.868637521,48.44,Male,6,2016-02-17,2018-12-31,Active,100755.2,Bachelor,4.76
+687,Marzooq,al-Anwar,marzooq.al-anwar@widgetcorp.com,Design,Manager,6.191377588,48.36,Male,6,2012-10-21,2018-12-31,Active,100588.8,Some College,8.08
+594,Cainan,Herrera,cainan.herrera@widgetcorp.com,Design,Manager,5.676819219,48.25,Male,1,2013-04-27,2018-12-31,Active,100360,High School Diploma,7.57
+311,Kento,Shin,kento.shin@widgetcorp.com,Design,Associate,4.343474402,46.8,Male,2,2014-08-27,2018-12-31,Active,97344,Some College,6.24
+955,Nutthavasa,Gandhi,nutthavasa.gandhi@widgetcorp.com,Design,Director,8.863089357,46.06,Female,2,2010-02-18,2018-12-31,Active,95804.8,Some College,10.76
+784,Chanae,Collins,chanae.collins@widgetcorp.com,Design,Director,6.79205612,43.79,Female,3,2012-03-16,2018-12-31,Active,91083.2,Some College,8.68
+654,Amninder,Tran,amninder.tran@widgetcorp.com,Design,Analyst,6.007571339,43.71,Male,2,2012-12-27,2018-12-31,Active,90916.8,High School Diploma,7.9
+869,Danielle,Smith,danielle.smith@widgetcorp.com,Design,Director,7.5975812,43.43,Female,3,2011-05-26,2018-12-31,Active,90334.4,High School Diploma,9.49
+641,Jair,Gonzales,jair.gonzales@widgetcorp.com,Design,Manager,5.916629882,41.8,Male,4,2013-01-29,2018-12-31,Active,86944,Master,7.81
+503,Tyler,Reilly,tyler.reilly@widgetcorp.com,Design,Associate,5.253337314,41.52,Male,2,2013-09-29,2018-12-31,Active,86361.6,PhD,7.15
+810,Zaid,el-Ahmed,zaid.el-ahmed@widgetcorp.com,Design,Manager,6.985141043,40.45,Male,6,2012-01-05,2018-12-31,Active,84136,High School Diploma,8.88
+184,Will,Pronteau,will.pronteau@widgetcorp.com,Design,Associate,3.714969922,40.16,Male,1,2015-04-14,2018-12-31,Active,83532.8,Some College,5.61
+838,Bethany,Cardoza,bethany.cardoza@widgetcorp.com,Design,Manager,7.259782931,39.34,Female,1,2011-09-27,2018-12-31,Active,81827.2,High School Diploma,9.15
+555,Meagan,Vang,meagan.vang@widgetcorp.com,Design,Manager,5.489245956,37.67,Female,2,2013-07-05,2018-12-31,Active,78353.6,High School Diploma,7.38
+40,Samuel,Liu,samuel.liu@widgetcorp.com,Design,Analyst,2.426772666,37.19,Male,2,2016-07-27,2018-12-31,Active,77355.2,High School Diploma,4.32
+870,Wasmaaa,el-Bina,wasmaaa.el-bina@widgetcorp.com,Design,Associate,7.600743974,34.94,Female,6,2011-05-25,2018-12-31,Active,72675.2,Some College,9.49
+695,Stephanie,Ramirez,stephanie.ramirez@widgetcorp.com,Design,Associate,6.227301995,34.81,Female,4,2012-10-08,2018-12-31,Active,72404.8,High School Diploma,8.12
+740,Masooda,al-Malek,masooda.al-malek@widgetcorp.com,Design,Associate,6.479976702,34.29,Female,6,2012-07-08,2018-12-31,Active,71323.2,Bachelor,8.37
+312,Raafi,el-Rasul,raafi.el-rasul@widgetcorp.com,Design,Analyst,4.346216291,34.2,Male,6,2014-08-26,2018-12-31,Active,71136,Some College,6.24
+318,Tyler,Orr,tyler.orr@widgetcorp.com,Design,Associate,4.383756065,33.77,Male,4,2014-08-12,2018-12-31,Active,70241.6,Some College,6.28
+657,Afaaf,el-Semaan,afaaf.el-semaan@widgetcorp.com,Design,Associate,6.028365417,33.28,Female,6,2012-12-20,2018-12-31,Active,69222.4,PhD,7.92
+421,Demi,Castro,demi.castro@widgetcorp.com,Design,Associate,4.872069587,32.68,Female,2,2014-02-15,2018-12-31,Active,67974.4,High School Diploma,6.77
+186,Melina,Lau,melina.lau@widgetcorp.com,Design,Associate,3.717543275,32.34,Female,2,2015-04-13,2018-12-31,Active,67267.2,High School Diploma,5.61
+248,Courtney,Zweifel,courtney.zweifel@widgetcorp.com,Design,Associate,4.017932214,31.66,Female,5,2014-12-24,2018-12-31,Active,65852.8,Master,5.91
+226,Matthew,Lavelle,matthew.lavelle@widgetcorp.com,Design,Analyst,3.911450279,30.38,Male,5,2015-02-01,2018-12-31,Active,63190.4,High School Diploma,5.8
+121,Rosa,Aragon,rosa.aragon@widgetcorp.com,Design,Analyst,3.306885733,28.39,Female,4,2015-09-10,2018-12-31,Active,59051.2,Some College,5.2
+137,Alondra,Leos-Valles,alondra.leos-valles@widgetcorp.com,Design,Analyst,3.408210803,28.29,Female,4,2015-08-04,2018-12-31,Active,58843.2,Bachelor,5.3
+342,Elizabeth,Thomas,elizabeth.thomas@widgetcorp.com,Design,Analyst,4.496215014,27.64,Female,5,2014-07-02,2018-12-31,Active,57491.2,Some College,6.39
+252,Sukaina,el-Shakoor,sukaina.el-shakoor@widgetcorp.com,Design,Analyst,4.034614021,26.98,Female,6,2014-12-18,2018-12-31,Active,56118.4,PhD,5.93
+997,Robert,Young,robert.young@widgetcorp.com,Engineering,Executive,10.92151824,88.44,Male,3,2008-01-28,2018-12-31,Active,183955.2,Some College,12.82
+975,Husaam,el-Shehata,husaam.el-shehata@widgetcorp.com,Engineering,VP,9.643735757,77.93,Male,6,2009-05-09,2018-12-31,Active,162094.4,Master,11.54
+985,Indigo,Begay,indigo.begay@widgetcorp.com,Engineering,Executive,10.06087108,69.77,Male,1,2008-12-08,2018-12-31,Active,145121.6,Bachelor,11.95
+933,Ishaaq,el-Mahmoud,ishaaq.el-mahmoud@widgetcorp.com,Engineering,Director,8.445899035,67.31,Male,6,2010-07-21,2018-12-31,Active,140004.8,Some College,10.34
+718,Isaiah,Moore,isaiah.moore@widgetcorp.com,Engineering,Director,6.367907922,60.62,Male,3,2012-08-18,2018-12-31,Active,126089.6,Some College,8.26
+965,Friedrich,Smith Small,friedrich.smith small@widgetcorp.com,Engineering,VP,9.163091966,58.29,Male,3,2009-11-01,2018-12-31,Active,121243.2,High School Diploma,11.06
+549,Israel,Hernandez,israel.hernandez@widgetcorp.com,Engineering,Associate,5.44365341,56.57,Male,4,2013-07-21,2018-12-31,Active,117665.6,Bachelor,7.34
+876,Christian,Westphal,christian.westphal@widgetcorp.com,Engineering,Manager,7.633811898,55.99,Male,2,2011-05-13,2018-12-31,Active,116459.2,Bachelor,9.53
+378,Andre,Morin,andre.morin@widgetcorp.com,Engineering,Manager,4.685239994,55.29,Male,1,2014-04-24,2018-12-31,Active,115003.2,Bachelor,6.58
+761,Elias,John,elias.john@widgetcorp.com,Engineering,Director,6.654894059,55.13,Male,5,2012-05-05,2018-12-31,Active,114670.4,Master,8.55
+996,Daijha,Cook,daijha.cook@widgetcorp.com,Engineering,Executive,10.90735888,54.87,Female,3,2008-02-03,2018-12-31,Active,114129.6,High School Diploma,12.8
+772,Victor,Todd,victor.todd@widgetcorp.com,Engineering,Manager,6.711943034,54.43,Male,1,2012-04-14,2018-12-31,Active,113214.4,Bachelor,8.61
+940,Kaitlyn,Davis,kaitlyn.davis@widgetcorp.com,Engineering,Executive,8.573688152,54.2,Female,5,2010-06-04,2018-12-31,Active,112736,Bachelor,10.47
+956,Deion,Sharpe,deion.sharpe@widgetcorp.com,Engineering,Director,8.871227906,52.97,Male,1,2010-02-15,2018-12-31,Active,110177.6,High School Diploma,10.77
+326,Brannon,Garcia,brannon.garcia@widgetcorp.com,Engineering,Manager,4.410649705,52.41,Male,1,2014-08-03,2018-12-31,Active,109012.8,High School Diploma,6.3
+591,Roberto,Negrete,roberto.negrete@widgetcorp.com,Engineering,Associate,5.665633328,51.73,Male,4,2013-05-01,2018-12-31,Active,107598.4,Bachelor,7.56
+968,Ngadi,Howard,ngadi.howard@widgetcorp.com,Engineering,VP,9.274782131,51.11,Female,3,2009-09-21,2018-12-31,Active,106308.8,Bachelor,11.17
+905,Marian,Lockhart,marian.lockhart@widgetcorp.com,Engineering,VP,8.087038742,50.19,Female,5,2010-11-29,2018-12-31,Active,104395.2,Some College,9.98
+669,Martha,Olivas,martha.olivas@widgetcorp.com,Engineering,VP,6.108411559,49.48,Female,4,2012-11-20,2018-12-31,Active,102918.4,High School Diploma,8
+897,Jannelle,Parker,jannelle.parker@widgetcorp.com,Engineering,VP,7.960578851,49.2,Female,3,2011-01-14,2018-12-31,Active,102336,Bachelor,9.85
+963,Summer,Connely,summer.connely@widgetcorp.com,Engineering,VP,9.124182065,49.01,Female,5,2009-11-15,2018-12-31,Active,101940.8,Bachelor,11.02
+546,Jared,Garcia,jared.garcia@widgetcorp.com,Engineering,Associate,5.439434744,48.25,Male,1,2013-07-23,2018-12-31,Active,100360,High School Diploma,7.33
+284,Caleb,Tawater,caleb.tawater@widgetcorp.com,Engineering,Associate,4.171179265,48,Male,2,2014-10-29,2018-12-31,Active,99840,High School Diploma,6.06
+659,Jonathon,Westfield,jonathon.westfield@widgetcorp.com,Engineering,Manager,6.034469625,47.86,Male,3,2012-12-17,2018-12-31,Active,99548.8,Master,7.93
+707,Marcus,Wiggins,marcus.wiggins@widgetcorp.com,Engineering,Manager,6.301936241,47.09,Male,3,2012-09-11,2018-12-31,Active,97947.2,Some College,8.19
+155,Anthony,Boulier,anthony.boulier@widgetcorp.com,Engineering,Analyst,3.554324358,46.29,Male,1,2015-06-11,2018-12-31,Active,96283.2,Bachelor,5.45
+701,Althean,Thrush,althean.thrush@widgetcorp.com,Engineering,Director,6.253693975,45.33,Male,1,2012-09-28,2018-12-31,Active,94286.4,High School Diploma,8.15
+114,Jose,Garcia,jose.garcia@widgetcorp.com,Engineering,Analyst,3.243033728,44.28,Male,4,2015-10-03,2018-12-31,Active,92102.4,High School Diploma,5.14
+843,Ruby,Miller,ruby.miller@widgetcorp.com,Engineering,Director,7.309176004,43.94,Female,1,2011-09-09,2018-12-31,Active,91395.2,Some College,9.2
+193,Joshua,Hickman,joshua.hickman@widgetcorp.com,Engineering,Analyst,3.752351305,43.08,Male,5,2015-03-31,2018-12-31,Active,89606.4,Some College,5.65
+596,Awad,el-Dada,awad.el-dada@widgetcorp.com,Engineering,Associate,5.685945562,42.74,Male,6,2013-04-24,2018-12-31,Active,88899.2,Bachelor,7.58
+341,Forrest,Paulsen,forrest.paulsen@widgetcorp.com,Engineering,Associate,4.496020831,42.56,Male,5,2014-07-02,2018-12-31,Active,88524.8,Some College,6.39
+273,Abdur Raheem,el-Selim,abdur raheem.el-selim@widgetcorp.com,Engineering,Associate,4.119666238,42.46,Male,6,2014-11-17,2018-12-31,Active,88316.8,Some College,6.01
+87,Tyler,Oswalt-Naasz,tyler.oswalt-naasz@widgetcorp.com,Engineering,Analyst,2.982666094,42.45,Male,1,2016-01-06,2018-12-31,Active,88296,Master,4.88
+736,Austin,Casias,austin.casias@widgetcorp.com,Engineering,Manager,6.467652856,41.96,Male,4,2012-07-12,2018-12-31,Active,87276.8,Some College,8.36
+824,Kate,Xue,kate.xue@widgetcorp.com,Engineering,Director,7.166359221,41.8,Female,2,2011-10-31,2018-12-31,Active,86944,High School Diploma,9.06
+163,Jeremy,Culhane,jeremy.culhane@widgetcorp.com,Engineering,Associate,3.612992931,41.55,Male,1,2015-05-21,2018-12-31,Active,86424,PhD,5.51
+43,Saul,Palma-Valle,saul.palma-valle@widgetcorp.com,Engineering,Analyst,2.459605099,41.28,Male,4,2016-07-15,2018-12-31,Active,85862.4,High School Diploma,4.35
+471,Giovanni,Hernandez,giovanni.hernandez@widgetcorp.com,Engineering,Associate,5.091741237,41.2,Male,4,2013-11-27,2018-12-31,Active,85696,Master,6.98
+120,Joseph,Stewart,joseph.stewart@widgetcorp.com,Engineering,Associate,3.290004294,40.99,Male,1,2015-09-16,2018-12-31,Active,85259.2,Some College,5.18
+447,Jijo,Nguyen,jijo.nguyen@widgetcorp.com,Engineering,Analyst,4.98912102,40.74,Male,2,2014-01-03,2018-12-31,Active,84739.2,Some College,6.88
+206,Horlando,Estrada,horlando.estrada@widgetcorp.com,Engineering,Analyst,3.808822534,40.49,Male,4,2015-03-10,2018-12-31,Active,84219.2,High School Diploma,5.7
+864,Erin,Kubit,erin.kubit@widgetcorp.com,Engineering,Manager,7.548891904,39.94,Female,2,2011-06-13,2018-12-31,Active,83075.2,Some College,9.44
+385,Amaris,Rios,amaris.rios@widgetcorp.com,Engineering,Manager,4.721647079,38.4,Female,4,2014-04-11,2018-12-31,Active,79872,High School Diploma,6.61
+429,Shalise,Phillips,shalise.phillips@widgetcorp.com,Engineering,Manager,4.919033859,38.33,Female,3,2014-01-29,2018-12-31,Active,79726.4,Some College,6.81
+446,Thao,Xiong,thao.xiong@widgetcorp.com,Engineering,Manager,4.984770742,38.22,Female,2,2014-01-05,2018-12-31,Active,79497.6,Bachelor,6.88
+748,Carissa,Mendoza,carissa.mendoza@widgetcorp.com,Engineering,Manager,6.526703983,37.98,Female,4,2012-06-21,2018-12-31,Active,78998.4,High School Diploma,8.42
+2,Sivilize,Ellett,sivilize.ellett@widgetcorp.com,Engineering,Analyst,0.8499138104,37.62,Male,2,2018-02-23,2018-12-31,Active,78249.6,Some College,2.74
+760,Ricky,Elhussen,ricky.elhussen@widgetcorp.com,Engineering,Manager,6.634108663,37.61,Male,3,2012-05-12,2018-12-31,Active,78228.8,Some College,8.53
+65,Calvin,Nguyen,calvin.nguyen@widgetcorp.com,Engineering,Analyst,2.747743348,37.56,Male,2,2016-04-01,2018-12-31,Active,78124.8,High School Diploma,4.64
+781,Nohelia,Unruh,nohelia.unruh@widgetcorp.com,Engineering,Manager,6.756850232,37.12,Female,1,2012-03-29,2018-12-31,Active,77209.6,Some College,8.65
+62,Abdur Razzaaq,el-Hallal,abdur razzaaq.el-hallal@widgetcorp.com,Engineering,Analyst,2.717825643,36.69,Male,6,2016-04-12,2018-12-31,Active,76315.2,Some College,4.61
+391,Alec,Larson,alec.larson@widgetcorp.com,Engineering,Analyst,4.745536999,36.25,Male,5,2014-04-02,2018-12-31,Active,75400,Bachelor,6.64
+652,Katrina,Pluto,katrina.pluto@widgetcorp.com,Engineering,Manager,5.97680288,36.15,Female,2,2013-01-07,2018-12-31,Active,75192,Bachelor,7.87
+753,Simone,Schwartz,simone.schwartz@widgetcorp.com,Engineering,Associate,6.567986877,35.8,Female,5,2012-06-06,2018-12-31,Active,74464,High School Diploma,8.46
+647,Toby,Hager,toby.hager@widgetcorp.com,Engineering,Associate,5.953020138,35.52,Male,5,2013-01-16,2018-12-31,Active,73881.6,High School Diploma,7.85
+279,Freddy,Galvan,freddy.galvan@widgetcorp.com,Engineering,Associate,4.16268773,35.51,Male,4,2014-11-01,2018-12-31,Active,73860.8,High School Diploma,6.06
+91,Kenneth,Linhardt,kenneth.linhardt@widgetcorp.com,Engineering,Analyst,3.037242707,35.47,Male,5,2015-12-17,2018-12-31,Active,73777.6,Some College,4.93
+379,Nicholas,Stewart,nicholas.stewart@widgetcorp.com,Engineering,Associate,4.693301302,35.01,Male,5,2014-04-21,2018-12-31,Active,72820.8,PhD,6.59
+180,Thomas,Elder,thomas.elder@widgetcorp.com,Engineering,Analyst,3.701469751,34.92,Male,5,2015-04-19,2018-12-31,Active,72633.6,High School Diploma,5.59
+133,Daniel,Poudyal,daniel.poudyal@widgetcorp.com,Engineering,Analyst,3.382673179,34.38,Male,2,2015-08-13,2018-12-31,Active,71510.4,Some College,5.28
+679,Tanner,Smith,tanner.smith@widgetcorp.com,Engineering,Associate,6.175187564,34.26,Male,5,2012-10-27,2018-12-31,Active,71260.8,Some College,8.07
+332,Justin,Rojas-Hudson,justin.rojas-hudson@widgetcorp.com,Engineering,Associate,4.459587919,34.15,Male,3,2014-07-16,2018-12-31,Active,71032,High School Diploma,6.35
+141,Matea,Dick,matea.dick@widgetcorp.com,Engineering,Associate,3.447173073,33.65,Female,1,2015-07-20,2018-12-31,Active,69992,Some College,5.34
+624,Humaira,el-Sawaya,humaira.el-sawaya@widgetcorp.com,Engineering,Associate,5.834498585,33.52,Female,6,2013-02-28,2018-12-31,Active,69721.6,Bachelor,7.73
+36,Hayden,Lovelace,hayden.lovelace@widgetcorp.com,Engineering,Analyst,2.380145015,33.4,Male,1,2016-08-13,2018-12-31,Active,69472,Some College,4.27
+619,Rachel,Arndt,rachel.arndt@widgetcorp.com,Engineering,Associate,5.814682705,33.36,Female,5,2013-03-08,2018-12-31,Active,69388.8,Master,7.71
+778,Shaahira,el-Uddin,shaahira.el-uddin@widgetcorp.com,Engineering,Associate,6.733055821,33.04,Female,6,2012-04-06,2018-12-31,Active,68723.2,High School Diploma,8.63
+399,Cassandra,Choudhry,cassandra.choudhry@widgetcorp.com,Engineering,Associate,4.781518866,32.01,Female,2,2014-03-20,2018-12-31,Active,66580.8,Master,6.67
+333,Joselyne,Rojas Mendoza,joselyne.rojas mendoza@widgetcorp.com,Engineering,Associate,4.46243741,31.82,Female,4,2014-07-15,2018-12-31,Active,66185.6,High School Diploma,6.35
+498,Janiece,Gutierrez,janiece.gutierrez@widgetcorp.com,Engineering,Associate,5.222728717,31.54,Female,4,2013-10-10,2018-12-31,Active,65603.2,Some College,7.12
+278,Julius,Lewis,julius.lewis@widgetcorp.com,Engineering,Associate,4.139587008,31.15,Male,3,2014-11-10,2018-12-31,Active,64792,Some College,6.03
+80,Davier,Guardipee,davier.guardipee@widgetcorp.com,Engineering,Analyst,2.905426439,31.14,Male,1,2016-02-03,2018-12-31,Active,64771.2,PhD,4.8
+195,Joshua,Bonser,joshua.bonser@widgetcorp.com,Engineering,Analyst,3.762385619,30.38,Male,1,2015-03-27,2018-12-31,Active,63190.4,High School Diploma,5.66
+203,Caroline,Ho,caroline.ho@widgetcorp.com,Engineering,Analyst,3.799130548,29.46,Female,2,2015-03-14,2018-12-31,Active,61276.8,High School Diploma,5.69
+587,Ryan,Guerrero,ryan.guerrero@widgetcorp.com,Engineering,Associate,5.64562069,29.12,Male,1,2013-05-08,2018-12-31,Active,60569.6,High School Diploma,7.54
+52,Saalima,al-Abdelnour,saalima.al-abdelnour@widgetcorp.com,Engineering,Analyst,2.529021892,29.05,Female,6,2016-06-20,2018-12-31,Active,60424,Some College,4.42
+22,Michael,Paskemin,michael.paskemin@widgetcorp.com,Engineering,Analyst,2.147720127,28.95,Male,1,2016-11-06,2018-12-31,Active,60216,Master,4.04
+627,Tyra,Copeland,tyra.copeland@widgetcorp.com,Engineering,Analyst,5.856915102,28.73,Female,3,2013-02-20,2018-12-31,Active,59758.4,Master,7.75
+233,Laaiqa,al-Vohra,laaiqa.al-vohra@widgetcorp.com,Engineering,Analyst,3.9452468,28.5,Female,6,2015-01-19,2018-12-31,Active,59280,High School Diploma,5.84
+501,Juan,Dorado Garcia,juan.dorado garcia@widgetcorp.com,Engineering,Associate,5.234702392,28.27,Male,4,2013-10-06,2018-12-31,Active,58801.6,High School Diploma,7.13
+232,Ramziyya,el-Baksh,ramziyya.el-baksh@widgetcorp.com,Engineering,Analyst,3.942005336,28.26,Female,6,2015-01-21,2018-12-31,Active,58780.8,High School Diploma,5.83
+349,Sarah,Billups,sarah.billups@widgetcorp.com,Engineering,Analyst,4.517194521,27.92,Female,2,2014-06-25,2018-12-31,Active,58073.6,Some College,6.41
+85,Nico,Carter,nico.carter@widgetcorp.com,Engineering,Analyst,2.949872839,27.37,Male,1,2016-01-18,2018-12-31,Active,56929.6,High School Diploma,4.84
+469,Demetria,Aguilar,demetria.aguilar@widgetcorp.com,Engineering,Analyst,5.087065877,27.25,Female,4,2013-11-28,2018-12-31,Active,56680,High School Diploma,6.98
+316,Alexandra,Wagner,alexandra.wagner@widgetcorp.com,Engineering,Analyst,4.375628432,27.18,Female,5,2014-08-15,2018-12-31,Active,56534.4,Bachelor,6.27
+238,Jai,Pruitt,jai.pruitt@widgetcorp.com,Engineering,Analyst,3.962324852,26.5,Female,3,2015-01-13,2018-12-31,Active,55120,Bachelor,5.86
+41,Sakeena,el-Semaan,sakeena.el-semaan@widgetcorp.com,Engineering,Analyst,2.431234875,26.49,Female,6,2016-07-25,2018-12-31,Active,55099.2,Some College,4.33
+71,Leah,Ford,leah.ford@widgetcorp.com,Engineering,Analyst,2.825283931,26.4,Female,5,2016-03-04,2018-12-31,Active,54912,High School Diploma,4.72
+165,Tawheeda,al-Kaiser,tawheeda.al-kaiser@widgetcorp.com,Engineering,Analyst,3.617016386,25.82,Female,6,2015-05-19,2018-12-31,Active,53705.6,PhD,5.51
+526,Saxon,Dodson,saxon.dodson@widgetcorp.com,Engineering,Analyst,5.356724533,25.06,Male,3,2013-08-22,2018-12-31,Active,52124.8,Master,7.25
+75,Andrea,Chavelas-Rosas,andrea.chavelas-rosas@widgetcorp.com,Engineering,Analyst,2.875813136,23.79,Female,4,2016-02-14,2018-12-31,Active,49483.2,High School Diploma,4.77
+883,Brylle,Soto,brylle.soto@widgetcorp.com,Executive,VP,7.73843443,92.22,Male,2,2011-04-05,2018-12-31,Active,191817.6,Some College,9.63
+899,Ariana,Carranza,ariana.carranza@widgetcorp.com,Executive,VP,7.986882274,85.57,Female,4,2011-01-04,2018-12-31,Active,177985.6,Master,9.88
+620,Cristian,Lerma,cristian.lerma@widgetcorp.com,Executive,Manager,5.823801055,79.29,Male,4,2013-03-04,2018-12-31,Active,164923.2,Bachelor,7.72
+23,Bintang,Muramatsu,bintang.muramatsu@widgetcorp.com,Executive,Analyst,2.183736473,67,Male,2,2016-10-24,2018-12-31,Active,139360,High School Diploma,4.08
+553,Morgan,Sonoda,morgan.sonoda@widgetcorp.com,Executive,Manager,5.477191605,65,Female,2,2013-07-09,2018-12-31,Active,135200,High School Diploma,7.37
+281,Austin,Esparza,austin.esparza@widgetcorp.com,Executive,Analyst,4.167346686,51.42,Male,4,2014-10-30,2018-12-31,Active,106953.6,Bachelor,6.06
+149,Carolyn,Berhanu,carolyn.berhanu@widgetcorp.com,Executive,Analyst,3.525044005,47.02,Female,3,2015-06-22,2018-12-31,Active,97801.6,Some College,5.42
+168,Mackenzie,Quinby,mackenzie.quinby@widgetcorp.com,Executive,Analyst,3.623293743,44.76,Female,5,2015-05-17,2018-12-31,Active,93100.8,Some College,5.52
+860,Xavier,Evans,xavier.evans@widgetcorp.com,Finance,Director,7.491096101,74.88,Male,3,2011-07-04,2018-12-31,Active,155750.4,High School Diploma,9.39
+171,Derrick,Siewiyumptewa,derrick.siewiyumptewa@widgetcorp.com,Finance,Director,3.638073597,60.18,Male,1,2015-05-12,2018-12-31,Active,125174.4,Bachelor,5.53
+172,Joshua,Moore,joshua.moore@widgetcorp.com,Finance,Associate,3.639072071,46.4,Male,3,2015-05-11,2018-12-31,Active,96512,Some College,5.53
+402,David,Nack,david.nack@widgetcorp.com,Finance,Associate,4.787813216,45.43,Male,1,2014-03-18,2018-12-31,Active,94494.4,Bachelor,6.68
+179,William,Bailey,william.bailey@widgetcorp.com,Finance,Associate,3.698572846,44.43,Male,1,2015-04-20,2018-12-31,Active,92414.4,Some College,5.59
+880,Mckenzy,Ahasteen,mckenzy.ahasteen@widgetcorp.com,Finance,Director,7.683499954,44.38,Female,1,2011-04-25,2018-12-31,Active,92310.4,PhD,9.58
+270,Ethan,Gonzales,ethan.gonzales@widgetcorp.com,Finance,Associate,4.118788139,37.17,Male,4,2014-11-17,2018-12-31,Active,77313.6,Some College,6.01
+559,Jessica,Robblee,jessica.robblee@widgetcorp.com,Finance,Manager,5.522333096,36.92,Female,5,2013-06-22,2018-12-31,Active,76793.6,Some College,7.42
+483,Badr,al-Shehadeh,badr.al-shehadeh@widgetcorp.com,Finance,Analyst,5.156839733,33.3,Male,6,2013-11-03,2018-12-31,Active,69264,Bachelor,7.05
+111,Mickel,Campbell,mickel.campbell@widgetcorp.com,Finance,Analyst,3.227222963,32.49,Male,3,2015-10-09,2018-12-31,Active,67579.2,Master,5.12
+646,Annie,Shreves,annie.shreves@widgetcorp.com,Finance,Associate,5.949466665,32.4,Female,5,2013-01-17,2018-12-31,Active,67392,Master,7.84
+351,Fatima,Kekahbah,fatima.kekahbah@widgetcorp.com,Finance,Associate,4.542250512,31.56,Female,1,2014-06-15,2018-12-31,Active,65644.8,Master,6.44
+463,Daisy,Gamez,daisy.gamez@widgetcorp.com,Finance,Associate,5.055597152,31.48,Female,4,2013-12-10,2018-12-31,Active,65478.4,Some College,6.95
+250,Sarah,Tran,sarah.tran@widgetcorp.com,Finance,Associate,4.028661048,31.42,Female,2,2014-12-20,2018-12-31,Active,65353.6,High School Diploma,5.92
+638,Turfa,el-Bashir,turfa.el-bashir@widgetcorp.com,Finance,Associate,5.89249659,31.05,Female,6,2013-02-07,2018-12-31,Active,64584,High School Diploma,7.79
+412,Kelsey,Fisher,kelsey.fisher@widgetcorp.com,Finance,Analyst,4.839202872,29.39,Female,5,2014-02-27,2018-12-31,Active,61131.2,Bachelor,6.73
+352,Mawdood,al-Mohamad,mawdood.al-mohamad@widgetcorp.com,Finance,Analyst,4.543445006,29.37,Male,6,2014-06-15,2018-12-31,Active,61089.6,Bachelor,6.44
+35,Nuchi,Cung,nuchi.cung@widgetcorp.com,Finance,Analyst,2.372281254,28.29,Female,2,2016-08-16,2018-12-31,Active,58843.2,Master,4.27
+452,Danielle,Clark,danielle.clark@widgetcorp.com,Finance,Analyst,5.004987866,26.1,Female,1,2013-12-28,2018-12-31,Active,54288,Master,6.9
+550,Austin,Cao,austin.cao@widgetcorp.com,HR,Manager,5.465568105,54.51,Male,2,2013-07-13,2018-12-31,Active,113380.8,Bachelor,7.36
+77,Azhaar,al-Rayes,azhaar.al-rayes@widgetcorp.com,HR,Associate,2.88914474,53.26,Male,6,2016-02-09,2018-12-31,Active,110780.8,Bachelor,4.78
+668,Ashraf,al-Sultana,ashraf.al-sultana@widgetcorp.com,HR,Manager,6.098290744,52.19,Male,6,2012-11-24,2018-12-31,Active,108555.2,Bachelor,7.99
+986,Fateena,el-Aman,fateena.el-aman@widgetcorp.com,HR,VP,10.15566729,50,Female,6,2008-11-03,2018-12-31,Active,104000,Some College,12.05
+804,Kathryn,Murthy,kathryn.murthy@widgetcorp.com,HR,VP,6.92657164,46.37,Female,2,2012-01-27,2018-12-31,Active,96449.6,Some College,8.82
+524,Miqdaad,el-Abed,miqdaad.el-abed@widgetcorp.com,HR,Associate,5.346889049,45.76,Male,6,2013-08-26,2018-12-31,Active,95180.8,Master,7.24
+686,Jayde,Hodges,jayde.hodges@widgetcorp.com,HR,VP,6.188692095,45.6,Female,3,2012-10-22,2018-12-31,Active,94848,Some College,8.08
+755,Jeremy,Chavez,jeremy.chavez@widgetcorp.com,HR,Associate,6.613520009,45.25,Male,4,2012-05-20,2018-12-31,Active,94120,Some College,8.51
+966,Tamar,Hill,tamar.hill@widgetcorp.com,HR,Director,9.178146034,44.09,Female,3,2009-10-26,2018-12-31,Active,91707.2,Some College,11.07
+738,Mumina,el-Sultan,mumina.el-sultan@widgetcorp.com,HR,Director,6.473017465,43.23,Female,6,2012-07-10,2018-12-31,Active,89918.4,Master,8.37
+742,Tai,Tran,tai.tran@widgetcorp.com,HR,Manager,6.483298642,39.79,Female,2,2012-07-06,2018-12-31,Active,82763.2,High School Diploma,8.38
+685,Hector,Santillano,hector.santillano@widgetcorp.com,HR,Associate,6.188049071,38,Male,4,2012-10-22,2018-12-31,Active,79040,Some College,8.08
+514,Oscar,Castaneda,oscar.castaneda@widgetcorp.com,HR,Analyst,5.320573433,36.74,Male,4,2013-09-04,2018-12-31,Active,76419.2,Bachelor,7.21
+310,Raymond,Young,raymond.young@widgetcorp.com,HR,Associate,4.342090293,36.54,Male,5,2014-08-28,2018-12-31,Active,76003.2,Bachelor,6.23
+125,Zaahira,al-Nouri,zaahira.al-nouri@widgetcorp.com,HR,Associate,3.349296112,33.06,Female,6,2015-08-25,2018-12-31,Active,68764.8,Master,5.24
+706,Monaye,Bivins,monaye.bivins@widgetcorp.com,HR,Associate,6.301053703,32.65,Female,3,2012-09-11,2018-12-31,Active,67912,Some College,8.19
+380,Patricia,Tunks,patricia.tunks@widgetcorp.com,HR,Associate,4.70073669,31.17,Female,5,2014-04-19,2018-12-31,Active,64833.6,PhD,6.59
+126,Aaron,Aviado,aaron.aviado@widgetcorp.com,HR,Analyst,3.360260759,30.36,Male,2,2015-08-21,2018-12-31,Active,63148.8,Bachelor,5.25
+309,Gilberto,Hogsett,gilberto.hogsett@widgetcorp.com,HR,Associate,4.340064082,29.69,Male,4,2014-08-28,2018-12-31,Active,61755.2,Master,6.23
+323,Taylor,Antwi,taylor.antwi@widgetcorp.com,HR,Associate,4.400103018,28.75,Female,3,2014-08-06,2018-12-31,Active,59800,Some College,6.29
+49,Suhail,al-Usman,suhail.al-usman@widgetcorp.com,HR,Analyst,2.503393632,27.66,Male,6,2016-06-29,2018-12-31,Active,57532.8,High School Diploma,4.4
+147,Shabeeba,al-Ahsan,shabeeba.al-ahsan@widgetcorp.com,HR,Analyst,3.505904382,27.06,Female,6,2015-06-29,2018-12-31,Active,56284.8,Some College,5.4
+144,Preston,Kwag,preston.kwag@widgetcorp.com,HR,Analyst,3.488237013,25.93,Male,2,2015-07-05,2018-12-31,Active,53934.4,Bachelor,5.38
+11,Joshua,Cone,joshua.cone@widgetcorp.com,HR,Analyst,1.644427176,22.37,Male,1,2017-05-09,2018-12-31,Active,46529.6,PhD,3.54
+777,Leonard,Odem,leonard.odem@widgetcorp.com,IT/IS,Director,6.729485623,60.13,Male,3,2012-04-08,2018-12-31,Active,125070.4,Some College,8.62
+764,Dallas,ODell,dallas.odell@widgetcorp.com,IT/IS,Manager,6.674758539,58.91,Male,1,2012-04-28,2018-12-31,Active,122532.8,Master,8.57
+268,Eric,Garnes,eric.garnes@widgetcorp.com,IT/IS,Manager,4.103363798,57.37,Male,3,2014-11-23,2018-12-31,Active,119329.6,Some College,6
+960,Torrean,Barber,torrean.barber@widgetcorp.com,IT/IS,Manager,9.071613223,57.03,Male,3,2009-12-04,2018-12-31,Active,118622.4,High School Diploma,10.97
+805,Collin,Lemley-Orlando,collin.lemley-orlando@widgetcorp.com,IT/IS,Manager,6.935265196,56.77,Male,5,2012-01-23,2018-12-31,Active,118081.6,High School Diploma,8.83
+376,Rashaad,al-Imam,rashaad.al-imam@widgetcorp.com,IT/IS,Manager,4.676164249,56.61,Male,6,2014-04-28,2018-12-31,Active,117748.8,Bachelor,6.57
+856,Savannah,Moore,savannah.moore@widgetcorp.com,IT/IS,Executive,7.463804215,56.43,Female,1,2011-07-14,2018-12-31,Active,117374.4,High School Diploma,9.36
+670,Elias,Flores,elias.flores@widgetcorp.com,IT/IS,Associate,6.125380595,56.19,Male,4,2012-11-14,2018-12-31,Active,116875.2,PhD,8.02
+826,Raymond,Albers,raymond.albers@widgetcorp.com,IT/IS,Manager,7.181504569,55.42,Male,2,2011-10-25,2018-12-31,Active,115273.6,Some College,9.08
+536,Lance,Riley,lance.riley@widgetcorp.com,IT/IS,Associate,5.39101914,55.25,Male,1,2013-08-09,2018-12-31,Active,114920,Master,7.29
+387,Dylan,Bower,dylan.bower@widgetcorp.com,IT/IS,Manager,4.724009911,53.22,Male,2,2014-04-10,2018-12-31,Active,110697.6,High School Diploma,6.62
+101,Matthew,Herbertson,matthew.herbertson@widgetcorp.com,IT/IS,Manager,3.124971537,52.17,Male,5,2015-11-15,2018-12-31,Active,108513.6,Some College,5.02
+783,Archibald,Armstrong,archibald.armstrong@widgetcorp.com,IT/IS,Manager,6.778416272,50.07,Male,1,2012-03-21,2018-12-31,Active,104145.6,Some College,8.67
+653,Sahl,al-Sheikh,sahl.al-sheikh@widgetcorp.com,IT/IS,Director,5.986734608,48.55,Male,6,2013-01-04,2018-12-31,Active,100984,Some College,7.88
+522,Brandon,Walker,brandon.walker@widgetcorp.com,IT/IS,Associate,5.337941337,47.86,Male,1,2013-08-29,2018-12-31,Active,99548.8,Master,7.23
+448,Justin,Cung,justin.cung@widgetcorp.com,IT/IS,Manager,4.992463768,46.2,Male,2,2014-01-02,2018-12-31,Active,96096,High School Diploma,6.89
+222,Shannon,Hodges,shannon.hodges@widgetcorp.com,IT/IS,Associate,3.896363279,45.31,Male,3,2015-02-06,2018-12-31,Active,94244.8,Bachelor,5.79
+793,Kyana,Jennis,kyana.jennis@widgetcorp.com,IT/IS,VP,6.850523593,45.24,Female,3,2012-02-23,2018-12-31,Active,94099.2,Master,8.74
+304,Cody,Jauch,cody.jauch@widgetcorp.com,IT/IS,Associate,4.314183382,44.83,Male,1,2014-09-07,2018-12-31,Active,93246.4,Master,6.21
+444,Breanne,Miller,breanne.miller@widgetcorp.com,IT/IS,Director,4.983365917,44.68,Female,5,2014-01-05,2018-12-31,Active,92934.4,Some College,6.88
+521,Kaleb,Howard,kaleb.howard@widgetcorp.com,IT/IS,Analyst,5.335712823,42.63,Male,3,2013-08-30,2018-12-31,Active,88670.4,Some College,7.23
+964,Holly,Bacon-Maldonado,holly.bacon-maldonado@widgetcorp.com,IT/IS,Director,9.140751849,42.47,Female,1,2009-11-09,2018-12-31,Active,88337.6,Some College,11.03
+634,Lauren,Sikes,lauren.sikes@widgetcorp.com,IT/IS,Director,5.888154941,42.46,Female,5,2013-02-09,2018-12-31,Active,88316.8,High School Diploma,7.78
+643,Thaylor,Mahnken,thaylor.mahnken@widgetcorp.com,IT/IS,Associate,5.923093219,42.28,Male,1,2013-01-27,2018-12-31,Active,87942.4,High School Diploma,7.82
+728,Ramisa,Deskin,ramisa.deskin@widgetcorp.com,IT/IS,Manager,6.429438406,39.19,Female,2,2012-07-26,2018-12-31,Active,81515.2,Some College,8.32
+189,Tilmon,Lambouths,tilmon.lambouths@widgetcorp.com,IT/IS,Associate,3.721289438,38.35,Male,3,2015-04-11,2018-12-31,Active,79768,High School Diploma,5.62
+199,Patrick,Ouellette,patrick.ouellette@widgetcorp.com,IT/IS,Analyst,3.787435292,36.38,Male,1,2015-03-18,2018-12-31,Active,75670.4,Bachelor,5.68
+708,Virginia,Vigil,virginia.vigil@widgetcorp.com,IT/IS,Associate,6.323149398,35.01,Female,4,2012-09-03,2018-12-31,Active,72820.8,Master,8.22
+648,Tammy,Levine,tammy.levine@widgetcorp.com,IT/IS,Associate,5.957302969,34.38,Female,2,2013-01-15,2018-12-31,Active,71510.4,High School Diploma,7.85
+719,Raymond,Kato,raymond.kato@widgetcorp.com,IT/IS,Associate,6.372005496,34.13,Male,4,2012-08-16,2018-12-31,Active,70990.4,Some College,8.27
+177,Santana,Romero-Torres,santana.romero-torres@widgetcorp.com,IT/IS,Analyst,3.658432959,33.67,Male,4,2015-05-04,2018-12-31,Active,70033.6,High School Diploma,5.55
+545,Elicia,Garcia,elicia.garcia@widgetcorp.com,IT/IS,Associate,5.439409299,33.47,Female,4,2013-07-23,2018-12-31,Active,69617.6,Some College,7.33
+277,Nicholas,Jubert,nicholas.jubert@widgetcorp.com,IT/IS,Associate,4.137453587,33.28,Male,5,2014-11-10,2018-12-31,Active,69222.4,PhD,6.03
+588,Safaaa,el-Ozer,safaaa.el-ozer@widgetcorp.com,IT/IS,Associate,5.654528514,32.22,Female,6,2013-05-05,2018-12-31,Active,67017.6,Master,7.55
+201,Jericho,Swimmer,jericho.swimmer@widgetcorp.com,IT/IS,Analyst,3.788259031,30.73,Male,1,2015-03-18,2018-12-31,Active,63918.4,Some College,5.68
+198,Rasheeqa,el-Ahsan,rasheeqa.el-ahsan@widgetcorp.com,IT/IS,Associate,3.782741199,30.48,Female,6,2015-03-20,2018-12-31,Active,63398.4,Some College,5.68
+494,Janette,Turner,janette.turner@widgetcorp.com,IT/IS,Analyst,5.201324657,29.69,Female,4,2013-10-18,2018-12-31,Active,61755.2,Bachelor,7.09
+170,Brenda,Wilson,brenda.wilson@widgetcorp.com,IT/IS,Analyst,3.63433361,29.12,Female,4,2015-05-13,2018-12-31,Active,60569.6,Some College,5.53
+289,Ishanique,Wallace,ishanique.wallace@widgetcorp.com,IT/IS,Analyst,4.195606319,29.07,Female,3,2014-10-20,2018-12-31,Active,60465.6,Some College,6.09
+211,Kendall,Vigil,kendall.vigil@widgetcorp.com,IT/IS,Analyst,3.832770256,27.98,Female,1,2015-03-02,2018-12-31,Active,58198.4,Some College,5.72
+265,Aleya,Yarbrough-Montoya,aleya.yarbrough-montoya@widgetcorp.com,IT/IS,Analyst,4.090449713,27.47,Female,3,2014-11-27,2018-12-31,Active,57137.6,Some College,5.98
+223,Sundus,al-Safar,sundus.al-safar@widgetcorp.com,IT/IS,Analyst,3.902657872,26.44,Female,6,2015-02-04,2018-12-31,Active,54995.2,Some College,5.8
+945,Andres,Miller,andres.miller@widgetcorp.com,Legal,Executive,8.672598518,61.68,Male,1,2010-04-29,2018-12-31,Active,128294.4,Bachelor,10.57
+462,Michael,Allen,michael.allen@widgetcorp.com,Legal,Manager,5.053547593,54.48,Male,3,2013-12-11,2018-12-31,Active,113318.4,High School Diploma,6.95
+244,Daniel,Farley,daniel.farley@widgetcorp.com,Legal,Analyst,4.00791651,46.27,Male,5,2014-12-28,2018-12-31,Active,96241.6,High School Diploma,5.9
+533,Thomas,Kendall,thomas.kendall@widgetcorp.com,Legal,Analyst,5.378005938,41.28,Male,2,2013-08-14,2018-12-31,Active,85862.4,Bachelor,7.27
+622,Fahmi,al-Radi,fahmi.al-radi@widgetcorp.com,Legal,Associate,5.8282329,39.93,Male,6,2013-03-03,2018-12-31,Active,83054.4,PhD,7.72
+417,Treyvon,Jackson,treyvon.jackson@widgetcorp.com,Legal,Manager,4.845790531,39.65,Male,3,2014-02-25,2018-12-31,Active,82472,Bachelor,6.74
+451,Chet,Stivers,chet.stivers@widgetcorp.com,Legal,Manager,5.000909793,39.07,Male,5,2013-12-30,2018-12-31,Active,81265.6,Some College,6.89
+145,Cheng,Mee,cheng.mee@widgetcorp.com,Legal,Analyst,3.493871734,38.66,Male,2,2015-07-03,2018-12-31,Active,80412.8,Bachelor,5.39
+13,Cory,Yamashita,cory.yamashita@widgetcorp.com,Legal,Analyst,1.745951963,36.75,Male,2,2017-04-02,2018-12-31,Active,76440,High School Diploma,3.64
+404,Seth,Butcher,seth.butcher@widgetcorp.com,Legal,Analyst,4.799570901,33.92,Male,1,2014-03-13,2018-12-31,Active,70553.6,Some College,6.69
+807,Victoria,Hanna,victoria.hanna@widgetcorp.com,Legal,Associate,6.937638668,33.51,Female,2,2012-01-23,2018-12-31,Active,69700.8,Some College,8.83
+504,Daniel,Huffstater,daniel.huffstater@widgetcorp.com,Legal,Associate,5.262128457,29.69,Male,1,2013-09-26,2018-12-31,Active,61755.2,High School Diploma,7.15
+898,Jameel,al-Pour,jameel.al-pour@widgetcorp.com,Marketing,Director,7.970415027,76.55,Male,6,2011-01-10,2018-12-31,Active,159224,Some College,9.86
+932,Donovan,Mason,donovan.mason@widgetcorp.com,Marketing,Director,8.441268991,74.74,Male,1,2010-07-22,2018-12-31,Active,155459.2,PhD,10.34
+995,Stevon,Rios,stevon.rios@widgetcorp.com,Marketing,VP,10.64491228,72.5,Male,4,2008-05-08,2018-12-31,Active,150800,High School Diploma,12.54
+862,Markus,Ortega Trujillo,markus.ortega trujillo@widgetcorp.com,Marketing,VP,7.51235372,68.73,Male,4,2011-06-27,2018-12-31,Active,142958.4,Bachelor,9.4
+970,Dakota,Aashiq,dakota.aashiq@widgetcorp.com,Marketing,VP,9.369238124,65.4,Male,2,2009-08-17,2018-12-31,Active,136032,High School Diploma,11.26
+849,Jeremy,Damiana,jeremy.damiana@widgetcorp.com,Marketing,Manager,7.416242226,64.49,Male,1,2011-08-01,2018-12-31,Active,134139.2,Master,9.31
+954,Orson,Apodaca-Anaya,orson.apodaca-anaya@widgetcorp.com,Marketing,VP,8.85091699,61.16,Male,1,2010-02-23,2018-12-31,Active,127212.8,Some College,10.74
+912,Dominique,Mata,dominique.mata@widgetcorp.com,Marketing,Manager,8.18008146,59.82,Male,4,2010-10-26,2018-12-31,Active,124425.6,High School Diploma,10.07
+633,Ryshawn,Briggs,ryshawn.briggs@widgetcorp.com,Marketing,Manager,5.886371482,53.7,Male,3,2013-02-10,2018-12-31,Active,111696,Master,7.78
+509,Tyler,Mccabe,tyler.mccabe@widgetcorp.com,Marketing,Director,5.281060732,52.77,Male,1,2013-09-19,2018-12-31,Active,109761.6,Some College,7.17
+918,Brannon,Nededog,brannon.nededog@widgetcorp.com,Marketing,Director,8.219573178,52.21,Male,1,2010-10-11,2018-12-31,Active,108596.8,Bachelor,10.11
+971,Ling,Esipa,ling.esipa@widgetcorp.com,Marketing,VP,9.374013548,49.45,Female,2,2009-08-16,2018-12-31,Active,102856,Some College,11.27
+397,Zackary,Farrell,zackary.farrell@widgetcorp.com,Marketing,Associate,4.774292049,48.64,Male,5,2014-03-23,2018-12-31,Active,101171.2,Master,6.67
+858,Valerie,Villa,valerie.villa@widgetcorp.com,Marketing,VP,7.481898787,48.54,Female,4,2011-07-08,2018-12-31,Active,100963.2,Master,9.37
+952,Allison,White,allison.white@widgetcorp.com,Marketing,VP,8.813922385,47.32,Female,1,2010-03-08,2018-12-31,Active,98425.6,Some College,10.71
+902,Ajsha,Chacon-Montalban,ajsha.chacon-montalban@widgetcorp.com,Marketing,VP,8.051600217,47.02,Female,4,2010-12-12,2018-12-31,Active,97801.6,High School Diploma,9.94
+597,Jerry,Ortiz,jerry.ortiz@widgetcorp.com,Marketing,Associate,5.693801463,46.63,Male,4,2013-04-21,2018-12-31,Active,96990.4,High School Diploma,7.59
+682,Davonte,Clayton,davonte.clayton@widgetcorp.com,Marketing,Manager,6.180033071,46.25,Male,3,2012-10-25,2018-12-31,Active,96200,Some College,8.07
+98,Richard,Hampf,richard.hampf@widgetcorp.com,Marketing,Associate,3.076913949,45.84,Male,5,2015-12-03,2018-12-31,Active,95347.2,High School Diploma,4.97
+338,Parker,Red,parker.red@widgetcorp.com,Marketing,Associate,4.490165588,45.73,Male,1,2014-07-04,2018-12-31,Active,95118.4,Master,6.38
+403,Elijah,Pham,elijah.pham@widgetcorp.com,Marketing,Associate,4.792506406,44.73,Male,2,2014-03-16,2018-12-31,Active,93038.4,High School Diploma,6.69
+511,Michael,Mbengue,michael.mbengue@widgetcorp.com,Marketing,Associate,5.289945916,44.65,Male,3,2013-09-15,2018-12-31,Active,92872,High School Diploma,7.18
+800,Linh,Smith,linh.smith@widgetcorp.com,Marketing,Director,6.882060977,44.62,Female,2,2012-02-12,2018-12-31,Active,92809.6,Master,8.77
+258,Jacob,Banks,jacob.banks@widgetcorp.com,Marketing,Associate,4.066570164,44.01,Male,1,2014-12-06,2018-12-31,Active,91540.8,High School Diploma,5.96
+936,Sang Kyun,Moon,sang kyun.moon@widgetcorp.com,Marketing,VP,8.53028309,42.74,Male,2,2010-06-20,2018-12-31,Active,88899.2,High School Diploma,10.42
+907,Marnita,Tomlinson,marnita.tomlinson@widgetcorp.com,Marketing,Director,8.103058695,42.64,Female,1,2010-11-23,2018-12-31,Active,88691.2,Bachelor,10
+972,Ashley,Skinner,ashley.skinner@widgetcorp.com,Marketing,Director,9.375804411,42.5,Female,5,2009-08-15,2018-12-31,Active,88400,Some College,11.27
+508,Navkirat,Yun,navkirat.yun@widgetcorp.com,Marketing,Manager,5.27783858,41.42,Male,2,2013-09-20,2018-12-31,Active,86153.6,Master,7.17
+336,Mastoor,el-Zia,mastoor.el-zia@widgetcorp.com,Marketing,Associate,4.472495245,40.3,Male,6,2014-07-11,2018-12-31,Active,83824,Master,6.37
+847,Caitlyn,Reynolds,caitlyn.reynolds@widgetcorp.com,Marketing,Manager,7.399840001,38.83,Female,1,2011-08-07,2018-12-31,Active,80766.4,Some College,9.29
+836,Emma,Thornton,emma.thornton@widgetcorp.com,Marketing,Manager,7.250844709,37.95,Female,5,2011-09-30,2018-12-31,Active,78936,Bachelor,9.14
+766,Ashley,Camerlo,ashley.camerlo@widgetcorp.com,Marketing,Manager,6.687878359,37.84,Female,5,2012-04-23,2018-12-31,Active,78707.2,High School Diploma,8.58
+600,Dylan,Mcfadden,dylan.mcfadden@widgetcorp.com,Marketing,Manager,5.704730016,37.55,Male,5,2013-04-17,2018-12-31,Active,78104,Master,7.6
+868,Mazeeda,al-Vaziri,mazeeda.al-vaziri@widgetcorp.com,Marketing,Manager,7.583556983,37.5,Female,6,2011-06-01,2018-12-31,Active,78000,Master,9.48
+364,Pamela,Song,pamela.song@widgetcorp.com,Marketing,Manager,4.62352752,37.13,Female,2,2014-05-17,2018-12-31,Active,77230.4,High School Diploma,6.52
+767,Michael,Koski,michael.koski@widgetcorp.com,Marketing,Associate,6.701676772,37.03,Male,5,2012-04-18,2018-12-31,Active,77022.4,Some College,8.59
+267,Kadeeja,Sanders Jr,kadeeja.sanders jr@widgetcorp.com,Marketing,Manager,4.093962652,36.86,Female,3,2014-11-26,2018-12-31,Active,76668.8,Bachelor,5.99
+328,Alexis,Vallejo,alexis.vallejo@widgetcorp.com,Marketing,Manager,4.437522627,36.7,Female,4,2014-07-24,2018-12-31,Active,76336,High School Diploma,6.33
+224,Bryce,Bolen,bryce.bolen@widgetcorp.com,Marketing,Analyst,3.903933026,36.58,Male,3,2015-02-04,2018-12-31,Active,76086.4,High School Diploma,5.8
+56,William,Wilmot,william.wilmot@widgetcorp.com,Marketing,Analyst,2.600652048,35.47,Male,2,2016-05-25,2018-12-31,Active,73777.6,High School Diploma,4.49
+703,Tryston,Martin,tryston.martin@widgetcorp.com,Marketing,Analyst,6.270058886,35.1,Male,5,2012-09-22,2018-12-31,Active,73008,Master,8.16
+554,Victor,Garcia Ibarra,victor.garcia ibarra@widgetcorp.com,Marketing,Analyst,5.483091591,33.97,Male,4,2013-07-07,2018-12-31,Active,70657.6,Master,7.38
+346,Destiny,Smith,destiny.smith@widgetcorp.com,Marketing,Associate,4.512102835,33.82,Female,5,2014-06-26,2018-12-31,Active,70345.6,Master,6.41
+768,Alexander,Chun,alexander.chun@widgetcorp.com,Marketing,Associate,6.70324638,33.73,Male,2,2012-04-17,2018-12-31,Active,70158.4,High School Diploma,8.6
+350,Numair,el-Haider,numair.el-haider@widgetcorp.com,Marketing,Manager,4.522793827,33.71,Male,6,2014-06-23,2018-12-31,Active,70116.8,High School Diploma,6.41
+612,Victoria,Davis,victoria.davis@widgetcorp.com,Marketing,Associate,5.782094013,33.59,Female,4,2013-03-20,2018-12-31,Active,69867.2,Some College,7.67
+693,Shanequa,Stewart,shanequa.stewart@widgetcorp.com,Marketing,Associate,6.217832607,32.64,Female,3,2012-10-11,2018-12-31,Active,67891.2,High School Diploma,8.11
+229,Roxanne,Klaus,roxanne.klaus@widgetcorp.com,Marketing,Associate,3.929463672,32.45,Female,5,2015-01-25,2018-12-31,Active,67496,Master,5.82
+181,Taylor,Dern,taylor.dern@widgetcorp.com,Marketing,Associate,3.703542854,32.19,Female,5,2015-04-18,2018-12-31,Active,66955.2,High School Diploma,5.6
+490,Brandon,Leil,brandon.leil@widgetcorp.com,Marketing,Analyst,5.177196083,31.77,Male,1,2013-10-27,2018-12-31,Active,66081.6,Master,7.07
+89,Jessica,Alaniz,jessica.alaniz@widgetcorp.com,Marketing,Associate,3.011649504,30.58,Female,4,2015-12-26,2018-12-31,Active,63606.4,PhD,4.91
+83,Parker,Mamatsios,parker.mamatsios@widgetcorp.com,Marketing,Analyst,2.940942684,30.39,Male,5,2016-01-21,2018-12-31,Active,63211.2,Some College,4.84
+142,Malachai,Ly,malachai.ly@widgetcorp.com,Marketing,Analyst,3.45197416,29.92,Male,2,2015-07-19,2018-12-31,Active,62233.6,PhD,5.34
+375,Haniyya,el-Kamali,haniyya.el-kamali@widgetcorp.com,Marketing,Analyst,4.674039237,28.8,Female,6,2014-04-28,2018-12-31,Active,59904,Some College,6.57
+282,Khawla,el-Islam,khawla.el-islam@widgetcorp.com,Marketing,Analyst,4.169761362,28.61,Female,6,2014-10-29,2018-12-31,Active,59508.8,PhD,6.06
+327,Shaana,Green,shaana.green@widgetcorp.com,Marketing,Analyst,4.416043779,28.55,Female,1,2014-08-01,2018-12-31,Active,59384,Master,6.31
+251,Laurisa,Sandoval,laurisa.sandoval@widgetcorp.com,Marketing,Analyst,4.033687536,28.36,Female,4,2014-12-18,2018-12-31,Active,58988.8,High School Diploma,5.93
+132,Charlotte,OConnor,charlotte.oconnor@widgetcorp.com,Marketing,Analyst,3.378461081,28.35,Female,1,2015-08-15,2018-12-31,Active,58968,Some College,5.27
+456,Vanessa,Jackson,vanessa.jackson@widgetcorp.com,Marketing,Analyst,5.021262591,28.31,Female,1,2013-12-22,2018-12-31,Active,58884.8,High School Diploma,6.92
+183,Dasinique,Abdul-Amin,dasinique.abdul-amin@widgetcorp.com,Marketing,Analyst,3.71161244,27.91,Female,3,2015-04-15,2018-12-31,Active,58052.8,High School Diploma,5.6
+276,Haley,Ebersole,haley.ebersole@widgetcorp.com,Marketing,Analyst,4.132380716,27.39,Female,5,2014-11-12,2018-12-31,Active,56971.2,Some College,6.03
+416,Reina,Quintana,reina.quintana@widgetcorp.com,Marketing,Analyst,4.842547858,26.99,Female,4,2014-02-26,2018-12-31,Active,56139.2,PhD,6.74
+84,Sheneice,Burns,sheneice.burns@widgetcorp.com,Marketing,Analyst,2.946917706,26.9,Female,1,2016-01-19,2018-12-31,Active,55952,Master,4.84
+78,Naaila,al-Wakim,naaila.al-wakim@widgetcorp.com,Marketing,Analyst,2.900803206,26.83,Female,6,2016-02-05,2018-12-31,Active,55806.4,Some College,4.79
+119,Yesenia,Sanchez,yesenia.sanchez@widgetcorp.com,Marketing,Analyst,3.288531949,26.14,Female,4,2015-09-16,2018-12-31,Active,54371.2,High School Diploma,5.18
+302,Fatima,Reddell,fatima.reddell@widgetcorp.com,Marketing,Analyst,4.302307233,24.65,Female,1,2014-09-11,2018-12-31,Active,51272,High School Diploma,6.2
+872,Abdullah,al-Mina,abdullah.al-mina@widgetcorp.com,Operations,Manager,7.613096186,59.28,Male,6,2011-05-21,2018-12-31,Active,123302.4,Some College,9.51
+976,Adam,Rodriguez,adam.rodriguez@widgetcorp.com,Operations,VP,9.665947782,58.63,Male,2,2009-05-01,2018-12-31,Active,121950.4,Some College,11.56
+611,Aaron,Wilson,aaron.wilson@widgetcorp.com,Operations,Associate,5.780559958,58.14,Male,2,2013-03-20,2018-12-31,Active,120931.2,Some College,7.67
+967,Alisha,Gonzalez,alisha.gonzalez@widgetcorp.com,Operations,Executive,9.245970188,55.46,Female,4,2009-10-01,2018-12-31,Active,115356.8,Master,11.14
+607,Raashid,el-Reza,raashid.el-reza@widgetcorp.com,Operations,Manager,5.754383811,55.05,Male,6,2013-03-30,2018-12-31,Active,114504,Some College,7.65
+988,Zaahira,el-Saleem,zaahira.el-saleem@widgetcorp.com,Operations,Executive,10.22363182,54,Female,6,2008-10-09,2018-12-31,Active,112320,Some College,12.12
+663,Thomas,Lee,thomas.lee@widgetcorp.com,Operations,Manager,6.078725181,53.84,Male,5,2012-12-01,2018-12-31,Active,111987.2,Bachelor,7.97
+492,Glen,Callahan,glen.callahan@widgetcorp.com,Operations,Associate,5.188445511,49.88,Male,1,2013-10-22,2018-12-31,Active,103750.4,High School Diploma,7.08
+551,Umar,Burton,umar.burton@widgetcorp.com,Operations,Associate,5.471111138,49.69,Male,3,2013-07-11,2018-12-31,Active,103355.2,Bachelor,7.36
+287,Idrees,al-Youssef,idrees.al-youssef@widgetcorp.com,Operations,Analyst,4.173266825,48.13,Male,6,2014-10-28,2018-12-31,Active,100110.4,Some College,6.07
+726,Christopher,Cannady,christopher.cannady@widgetcorp.com,Operations,Manager,6.407006965,47.43,Male,3,2012-08-03,2018-12-31,Active,98654.4,Some College,8.3
+745,Christopher,Madrid,christopher.madrid@widgetcorp.com,Operations,Manager,6.493829379,46.89,Male,4,2012-07-03,2018-12-31,Active,97531.2,Bachelor,8.39
+717,Fathi,el-Srour,fathi.el-srour@widgetcorp.com,Operations,Director,6.364408343,46.47,Male,6,2012-08-19,2018-12-31,Active,96657.6,Bachelor,8.26
+354,Alberto,Moya,alberto.moya@widgetcorp.com,Operations,Analyst,4.566469128,46.39,Male,4,2014-06-07,2018-12-31,Active,96491.2,Bachelor,6.46
+592,Troy,Meis,troy.meis@widgetcorp.com,Operations,Manager,5.673108976,45.79,Male,5,2013-04-28,2018-12-31,Active,95243.2,High School Diploma,7.57
+401,Marcus,Slay,marcus.slay@widgetcorp.com,Operations,Manager,4.782942663,45.06,Male,3,2014-03-20,2018-12-31,Active,93724.8,High School Diploma,6.67
+698,Gequan,Harvey,gequan.harvey@widgetcorp.com,Operations,Associate,6.236880118,43.96,Male,3,2012-10-04,2018-12-31,Active,91436.8,High School Diploma,8.13
+610,Mushtaaq,al-Mohammad,mushtaaq.al-mohammad@widgetcorp.com,Operations,Associate,5.773663495,42.7,Male,6,2013-03-23,2018-12-31,Active,88816,High School Diploma,7.67
+819,Ellie,Dahlgren,ellie.dahlgren@widgetcorp.com,Operations,Director,7.107483984,42.15,Female,5,2011-11-21,2018-12-31,Active,87672,Some College,9
+489,Josue,Gutierrez,josue.gutierrez@widgetcorp.com,Operations,Manager,5.174613869,41.2,Male,4,2013-10-27,2018-12-31,Active,85696,Some College,7.07
+756,Erich,Neufeld,erich.neufeld@widgetcorp.com,Operations,Manager,6.614687113,41.04,Male,5,2012-05-19,2018-12-31,Active,85363.2,High School Diploma,8.51
+290,Daniel,Sutherburg,daniel.sutherburg@widgetcorp.com,Operations,Analyst,4.201746028,40.62,Male,2,2014-10-18,2018-12-31,Active,84489.6,Master,6.09
+891,Jasmine,Pineda,jasmine.pineda@widgetcorp.com,Operations,Director,7.893711792,40.46,Female,4,2011-02-07,2018-12-31,Active,84156.8,Master,9.79
+873,Kayla,Paterson,kayla.paterson@widgetcorp.com,Operations,Manager,7.622772329,40.22,Female,5,2011-05-17,2018-12-31,Active,83657.6,Bachelor,9.52
+775,Zachary,Shriver,zachary.shriver@widgetcorp.com,Operations,Associate,6.721583727,39.97,Male,5,2012-04-10,2018-12-31,Active,83137.6,Master,8.62
+855,Teyanna,Aman,teyanna.aman@widgetcorp.com,Operations,Manager,7.453387175,39.91,Female,3,2011-07-18,2018-12-31,Active,83012.8,High School Diploma,9.35
+609,Jordan,Abraham,jordan.abraham@widgetcorp.com,Operations,Director,5.770312478,37.24,Male,2,2013-03-24,2018-12-31,Active,77459.2,Some College,7.66
+182,Randal,Cox,randal.cox@widgetcorp.com,Operations,Analyst,3.705185318,37.23,Male,1,2015-04-17,2018-12-31,Active,77438.4,PhD,5.6
+581,Shelley,Mitchell,shelley.mitchell@widgetcorp.com,Operations,Manager,5.609273866,36.72,Male,3,2013-05-22,2018-12-31,Active,76377.6,Master,7.5
+676,Munisa,al-Hallal,munisa.al-hallal@widgetcorp.com,Operations,Manager,6.146976456,36.66,Female,6,2012-11-06,2018-12-31,Active,76252.8,Bachelor,8.04
+21,Ghaazi,el-Huq,ghaazi.el-huq@widgetcorp.com,Operations,Analyst,2.083143482,36.26,Male,6,2016-11-30,2018-12-31,Active,75420.8,Bachelor,3.98
+586,Muteea,al-Ally,muteea.al-ally@widgetcorp.com,Operations,Manager,5.641714442,36.2,Female,6,2013-05-10,2018-12-31,Active,75296,Master,7.53
+202,Suyoun,Hoang,suyoun.hoang@widgetcorp.com,Operations,Manager,3.792679142,34.66,Female,2,2015-03-16,2018-12-31,Active,72092.8,High School Diploma,5.69
+481,Monica,Reyes,monica.reyes@widgetcorp.com,Operations,Associate,5.147221649,34.65,Female,4,2013-11-06,2018-12-31,Active,72072,High School Diploma,7.04
+637,Hameeda,el-Abdo,hameeda.el-abdo@widgetcorp.com,Operations,Associate,5.891059565,34.4,Female,6,2013-02-08,2018-12-31,Active,71552,Some College,7.78
+465,Ismad,al-Karim,ismad.al-karim@widgetcorp.com,Operations,Associate,5.061272239,34.16,Male,6,2013-12-08,2018-12-31,Active,71052.8,Some College,6.95
+655,Sabrina,Greenly,sabrina.greenly@widgetcorp.com,Operations,Associate,6.011486337,33.51,Female,4,2012-12-26,2018-12-31,Active,69700.8,Some College,7.9
+684,Zuleima,Casias,zuleima.casias@widgetcorp.com,Operations,Associate,6.184603012,33.39,Female,4,2012-10-24,2018-12-31,Active,69451.2,Bachelor,8.08
+96,Mario,Maldonado,mario.maldonado@widgetcorp.com,Operations,Analyst,3.061875918,32.89,Male,4,2015-12-08,2018-12-31,Active,68411.2,Master,4.96
+689,Ashley,Holt,ashley.holt@widgetcorp.com,Operations,Associate,6.193796435,32.88,Female,1,2012-10-20,2018-12-31,Active,68390.4,High School Diploma,8.09
+301,Adam,Bursell,adam.bursell@widgetcorp.com,Operations,Analyst,4.281803349,32.15,Male,5,2014-09-19,2018-12-31,Active,66872,PhD,6.17
+225,Cherokee,Carter,cherokee.carter@widgetcorp.com,Operations,Associate,3.906438716,32.11,Female,1,2015-02-03,2018-12-31,Active,66788.8,Master,5.8
+493,Sarah,Johnson,sarah.johnson@widgetcorp.com,Operations,Associate,5.189292235,31.9,Female,1,2013-10-22,2018-12-31,Active,66352,High School Diploma,7.08
+547,Brandon,Bagley,brandon.bagley@widgetcorp.com,Operations,Analyst,5.440463519,31.69,Male,5,2013-07-22,2018-12-31,Active,65915.2,PhD,7.33
+433,Cody,Todacheene,cody.todacheene@widgetcorp.com,Operations,Analyst,4.937952733,31.45,Male,1,2014-01-22,2018-12-31,Active,65416,Master,6.83
+359,Victoria,Muhammad,victoria.muhammad@widgetcorp.com,Operations,Associate,4.595197709,31.28,Female,3,2014-05-27,2018-12-31,Active,65062.4,High School Diploma,6.49
+106,Jannat,el-Hashemi,jannat.el-hashemi@widgetcorp.com,Operations,Associate,3.173244093,31.12,Female,6,2015-10-28,2018-12-31,Active,64729.6,Some College,5.07
+185,Abigail,Maestas,abigail.maestas@widgetcorp.com,Operations,Associate,3.717230019,30.54,Female,4,2015-04-13,2018-12-31,Active,63523.2,Master,5.61
+505,Clarissa,Mubili,clarissa.mubili@widgetcorp.com,Operations,Associate,5.265517015,30.44,Female,3,2013-09-24,2018-12-31,Active,63315.2,PhD,7.16
+571,Stephanie,Yann,stephanie.yann@widgetcorp.com,Operations,Analyst,5.559363147,30.15,Female,2,2013-06-09,2018-12-31,Active,62712,Master,7.45
+543,Tahaani,el-Hamady,tahaani.el-hamady@widgetcorp.com,Operations,Analyst,5.426882828,30.09,Female,6,2013-07-27,2018-12-31,Active,62587.2,Master,7.32
+129,Elizabeth,Tuthill,elizabeth.tuthill@widgetcorp.com,Operations,Associate,3.363731478,29.94,Female,5,2015-08-20,2018-12-31,Active,62275.2,Bachelor,5.26
+340,Caitlin,Hendricks,caitlin.hendricks@widgetcorp.com,Operations,Analyst,4.491159386,29.82,Female,2,2014-07-04,2018-12-31,Active,62025.6,Bachelor,6.38
+530,Waliyya,el-Abbas,waliyya.el-abbas@widgetcorp.com,Operations,Analyst,5.370469203,29.54,Female,6,2013-08-17,2018-12-31,Active,61443.2,Some College,7.26
+368,Iffat,al-Baksh,iffat.al-baksh@widgetcorp.com,Operations,Analyst,4.637241592,29.42,Female,6,2014-05-12,2018-12-31,Active,61193.6,High School Diploma,6.53
+90,Rajab,el-Akhter,rajab.el-akhter@widgetcorp.com,Operations,Analyst,3.015216814,28.97,Male,6,2015-12-25,2018-12-31,Active,60257.6,Some College,4.91
+583,Cheyenne,Nading,cheyenne.nading@widgetcorp.com,Operations,Analyst,5.635150747,28.09,Female,1,2013-05-12,2018-12-31,Active,58427.2,Some College,7.53
+420,Celine,Delaney,celine.delaney@widgetcorp.com,Operations,Analyst,4.870382064,27.77,Female,5,2014-02-16,2018-12-31,Active,57761.6,Bachelor,6.76
+156,Najeeba,al-Yassin,najeeba.al-yassin@widgetcorp.com,Operations,Analyst,3.555235322,27.71,Female,6,2015-06-11,2018-12-31,Active,57636.8,Master,5.45
+112,Catherina,Fish,catherina.fish@widgetcorp.com,Operations,Analyst,3.231911578,27.5,Female,5,2015-10-07,2018-12-31,Active,57200,High School Diploma,5.13
+431,Morgann,Eagle,morgann.eagle@widgetcorp.com,Operations,Analyst,4.927350156,27.19,Female,1,2014-01-26,2018-12-31,Active,56555.2,Some College,6.82
+673,Raafida,al-Hariri,raafida.al-hariri@widgetcorp.com,Operations,Analyst,6.14524663,26.8,Female,6,2012-11-07,2018-12-31,Active,55744,Master,8.04
+357,Waseem,al-Hanif,waseem.al-hanif@widgetcorp.com,Operations,Manager,4.575340354,26.78,Male,6,2014-06-03,2018-12-31,Active,55702.4,High School Diploma,6.47
+237,Samantha,Friel,samantha.friel@widgetcorp.com,Operations,Analyst,3.960090532,26.3,Female,5,2015-01-14,2018-12-31,Active,54704,Bachelor,5.85
+31,Jessica,Soto,jessica.soto@widgetcorp.com,Operations,Analyst,2.31820534,25.96,Female,4,2016-09-05,2018-12-31,Active,53996.8,High School Diploma,4.21
+6,Izza,al-Ally,izza.al-ally@widgetcorp.com,Operations,Analyst,1.337818324,25.7,Female,6,2017-08-29,2018-12-31,Active,53456,Bachelor,3.23
+3,Erin,Van Tine,erin.van tine@widgetcorp.com,Operations,Analyst,1.206743562,25.33,Female,5,2017-10-16,2018-12-31,Active,52686.4,High School Diploma,3.1
+26,Kenzie,Kurtzer,kenzie.kurtzer@widgetcorp.com,Operations,Analyst,2.209435692,25.06,Female,5,2016-10-15,2018-12-31,Active,52124.8,Bachelor,4.1
+909,Jonathan,Sanchez-Esparza,jonathan.sanchez-esparza@widgetcorp.com,Procurement,VP,8.141410965,81.31,Male,4,2010-11-09,2018-12-31,Active,169124.8,High School Diploma,10.03
+990,Caleb,Strode,caleb.strode@widgetcorp.com,Procurement,Executive,10.3130454,76.42,Male,5,2008-09-07,2018-12-31,Active,158953.6,Bachelor,12.21
+840,Hasan,el-Sadiq,hasan.el-sadiq@widgetcorp.com,Procurement,VP,7.303164261,67.95,Male,6,2011-09-11,2018-12-31,Active,141336,Some College,9.2
+978,D Andre,Vaughn,d andre.vaughn@widgetcorp.com,Procurement,VP,9.685902247,63.49,Male,3,2009-04-24,2018-12-31,Active,132059.2,Master,11.58
+924,Giovanni,Diaz-Cardenas,giovanni.diaz-cardenas@widgetcorp.com,Procurement,Executive,8.33616101,62.72,Male,4,2010-08-30,2018-12-31,Active,130457.6,PhD,10.23
+935,Brandon,Brown,brandon.brown@widgetcorp.com,Procurement,VP,8.522930216,60.43,Male,3,2010-06-22,2018-12-31,Active,125694.4,Master,10.42
+130,Peter,Hang,peter.hang@widgetcorp.com,Procurement,Associate,3.375736881,53.17,Male,2,2015-08-16,2018-12-31,Active,110593.6,Some College,5.27
+931,Madison,Pickruhn,madison.pickruhn@widgetcorp.com,Procurement,Executive,8.423632048,50.89,Female,5,2010-07-29,2018-12-31,Active,105851.2,High School Diploma,10.32
+881,Matthew,Kanjeric,matthew.kanjeric@widgetcorp.com,Procurement,Director,7.693648901,49.33,Male,5,2011-04-21,2018-12-31,Active,102606.4,Some College,9.59
+209,Benjamin,Soto,benjamin.soto@widgetcorp.com,Procurement,Associate,3.823154819,48.29,Male,2,2015-03-05,2018-12-31,Active,100443.2,High School Diploma,5.72
+759,Kenny,Park,kenny.park@widgetcorp.com,Procurement,Manager,6.627200856,47.64,Male,2,2012-05-15,2018-12-31,Active,99091.2,Some College,8.52
+922,Jordyn,Mendinghall,jordyn.mendinghall@widgetcorp.com,Procurement,VP,8.307313217,46.71,Female,3,2010-09-09,2018-12-31,Active,97156.8,Some College,10.2
+473,Kelvin,Romero,kelvin.romero@widgetcorp.com,Procurement,Associate,5.119514171,46.61,Male,1,2013-11-17,2018-12-31,Active,96948.8,Some College,7.01
+757,Nasreen,el-Srour,nasreen.el-srour@widgetcorp.com,Procurement,Director,6.616382836,42.65,Female,6,2012-05-19,2018-12-31,Active,88712,High School Diploma,8.51
+50,Matthew,Eggleston,matthew.eggleston@widgetcorp.com,Procurement,Analyst,2.51289864,41.3,Male,5,2016-06-26,2018-12-31,Active,85904,Some College,4.41
+770,Itzel,Guerrero,itzel.guerrero@widgetcorp.com,Procurement,Associate,6.707082201,40.9,Male,4,2012-04-16,2018-12-31,Active,85072,Some College,8.6
+601,Katherine,Campbell,katherine.campbell@widgetcorp.com,Procurement,Manager,5.705976477,39.33,Female,5,2013-04-16,2018-12-31,Active,81806.4,PhD,7.6
+577,Nathan,Padovich,nathan.padovich@widgetcorp.com,Procurement,Associate,5.574842974,39.18,Male,2,2013-06-03,2018-12-31,Active,81494.4,Some College,7.47
+370,Samuel,Averett,samuel.averett@widgetcorp.com,Procurement,Analyst,4.654235002,38.59,Male,3,2014-05-06,2018-12-31,Active,80267.2,High School Diploma,6.55
+540,Yaasmeena,al-Salah,yaasmeena.al-salah@widgetcorp.com,Procurement,Manager,5.411450044,38.59,Female,6,2013-08-02,2018-12-31,Active,80267.2,Bachelor,7.3
+434,Taylor,Diamond,taylor.diamond@widgetcorp.com,Procurement,Manager,4.952273632,38.27,Female,5,2014-01-17,2018-12-31,Active,79601.6,Some College,6.84
+422,Stephen,Stark,stephen.stark@widgetcorp.com,Procurement,Manager,4.874394188,38.26,Male,2,2014-02-14,2018-12-31,Active,79580.8,Some College,6.77
+428,Aerial,Gilsdorf,aerial.gilsdorf@widgetcorp.com,Procurement,Manager,4.917374483,37.9,Female,3,2014-01-29,2018-12-31,Active,78832,Some College,6.81
+466,Pandora,Richard,pandora.richard@widgetcorp.com,Procurement,Manager,5.064941264,37.78,Female,5,2013-12-07,2018-12-31,Active,78582.4,Master,6.96
+386,Timothy,Villanueva,timothy.villanueva@widgetcorp.com,Procurement,Analyst,4.722617408,37.48,Male,1,2014-04-11,2018-12-31,Active,77958.4,High School Diploma,6.61
+425,Wafaaa,al-Salahuddin,wafaaa.al-salahuddin@widgetcorp.com,Procurement,Manager,4.890486432,37.41,Female,6,2014-02-08,2018-12-31,Active,77812.8,Bachelor,6.78
+645,Hadbaaa,el-Rais,hadbaaa.el-rais@widgetcorp.com,Procurement,Manager,5.939507917,37.13,Female,6,2013-01-21,2018-12-31,Active,77230.4,Master,7.83
+496,Elijah,Kawamura,elijah.kawamura@widgetcorp.com,Procurement,Analyst,5.216112309,36.38,Male,2,2013-10-12,2018-12-31,Active,75670.4,High School Diploma,7.11
+79,Zaahir,el-Mansouri,zaahir.el-mansouri@widgetcorp.com,Procurement,Associate,2.90496412,36.16,Male,6,2016-02-03,2018-12-31,Active,75212.8,Some College,4.8
+158,Michael,Ousley,michael.ousley@widgetcorp.com,Procurement,Analyst,3.569738439,34.89,Male,3,2015-06-06,2018-12-31,Active,72571.2,Some College,5.46
+845,Shahla,el-Farran,shahla.el-farran@widgetcorp.com,Procurement,Associate,7.369483056,34.61,Female,6,2011-08-18,2018-12-31,Active,71988.8,Master,9.26
+552,KAra,Newton,kara.newton@widgetcorp.com,Procurement,Manager,5.475017056,34.53,Female,3,2013-07-10,2018-12-31,Active,71822.4,High School Diploma,7.37
+257,Phomy,Yelland,phomy.yelland@widgetcorp.com,Procurement,Associate,4.053131562,34.29,Male,2,2014-12-11,2018-12-31,Active,71323.2,Bachelor,5.95
+780,Aqeela,el-Sadri,aqeela.el-sadri@widgetcorp.com,Procurement,Associate,6.756343522,34.29,Female,6,2012-03-29,2018-12-31,Active,71323.2,High School Diploma,8.65
+400,Tatianna,Velasquez,tatianna.velasquez@widgetcorp.com,Procurement,Manager,4.7815833,34.19,Female,4,2014-03-20,2018-12-31,Active,71115.2,Bachelor,6.67
+430,Mangei,Guy,mangei.guy@widgetcorp.com,Procurement,Associate,4.923326153,33.92,Male,3,2014-01-27,2018-12-31,Active,70553.6,Some College,6.82
+413,Lynn,Ma,lynn.ma@widgetcorp.com,Procurement,Associate,4.840888016,32.61,Female,2,2014-02-26,2018-12-31,Active,67828.8,Master,6.74
+589,Samone,Ward,samone.ward@widgetcorp.com,Procurement,Associate,5.656830158,32.26,Female,3,2013-05-04,2018-12-31,Active,67100.8,High School Diploma,7.55
+765,Matthew,Fortner,matthew.fortner@widgetcorp.com,Procurement,Analyst,6.679789134,31.94,Male,3,2012-04-26,2018-12-31,Active,66435.2,High School Diploma,8.57
+39,Joni,Rydiger,joni.rydiger@widgetcorp.com,Procurement,Associate,2.41613368,31.76,Female,5,2016-07-31,2018-12-31,Active,66060.8,Bachelor,4.31
+639,Paloma,Atilano,paloma.atilano@widgetcorp.com,Procurement,Associate,5.89957662,31.71,Female,4,2013-02-05,2018-12-31,Active,65956.8,Bachelor,7.79
+418,Amber,Paxson,amber.paxson@widgetcorp.com,Procurement,Associate,4.854651826,31.64,Female,4,2014-02-21,2018-12-31,Active,65811.2,Bachelor,6.75
+348,Jillian,Kim,jillian.kim@widgetcorp.com,Procurement,Associate,4.517185567,31.31,Female,2,2014-06-25,2018-12-31,Active,65124.8,Some College,6.41
+470,Alaina,Kyambalesa,alaina.kyambalesa@widgetcorp.com,Procurement,Associate,5.088885861,31.21,Female,3,2013-11-28,2018-12-31,Active,64916.8,Some College,6.98
+518,Tameema,el-Saeed,tameema.el-saeed@widgetcorp.com,Procurement,Associate,5.328610304,30.79,Female,6,2013-09-01,2018-12-31,Active,64043.2,High School Diploma,7.22
+254,Yoosuf,el-Zia,yoosuf.el-zia@widgetcorp.com,Procurement,Analyst,4.042928124,29.71,Male,6,2014-12-15,2018-12-31,Active,61796.8,Some College,5.94
+507,Anjelica,Dominguez,anjelica.dominguez@widgetcorp.com,Procurement,Analyst,5.266863423,28.9,Female,4,2013-09-24,2018-12-31,Active,60112,Some College,7.16
+260,Kelsey,Ansel,kelsey.ansel@widgetcorp.com,Procurement,Analyst,4.076538769,28.19,Female,5,2014-12-03,2018-12-31,Active,58635.2,Master,5.97
+76,Maria,Ortiz,maria.ortiz@widgetcorp.com,Procurement,Analyst,2.878266069,27.6,Female,4,2016-02-13,2018-12-31,Active,57408,Master,4.77
+388,Matthew,Ryan,matthew.ryan@widgetcorp.com,Procurement,Analyst,4.728426434,27.13,Male,5,2014-04-08,2018-12-31,Active,56430.4,Some College,6.62
+300,Sydney,White,sydney.white@widgetcorp.com,Procurement,Analyst,4.264875065,26.71,Female,3,2014-09-25,2018-12-31,Active,55556.8,Master,6.16
+48,Afaaf,al-Sharaf,afaaf.al-sharaf@widgetcorp.com,Procurement,Analyst,2.496276026,26.61,Female,6,2016-07-02,2018-12-31,Active,55348.8,Some College,4.39
+411,Gwendolyn,Yoo,gwendolyn.yoo@widgetcorp.com,Procurement,Analyst,4.825819846,25.88,Female,2,2014-03-04,2018-12-31,Active,53830.4,Some College,6.72
+192,Emily,Nguyen,emily.nguyen@widgetcorp.com,Procurement,Analyst,3.745182806,25.75,Female,2,2015-04-03,2018-12-31,Active,53560,PhD,5.64
+979,Michael,Gandomcar,michael.gandomcar@widgetcorp.com,Sales,Executive,9.790547495,80.83,Male,2,2009-03-17,2018-12-31,Active,168126.4,PhD,11.68
+1000,Tiffany,Gottlieb,tiffany.gottlieb@widgetcorp.com,Sales,Executive,11.91569734,78.35,Male,2,2007-01-30,2018-12-31,Active,162968,Some College,13.81
+982,Terell,Miller,terell.miller@widgetcorp.com,Sales,VP,9.957915097,66.91,Male,3,2009-01-14,2018-12-31,Active,139172.8,Some College,11.85
+722,Saleem,el-Saba,saleem.el-saba@widgetcorp.com,Sales,Director,6.400509042,62.27,Male,6,2012-08-06,2018-12-31,Active,129521.6,High School Diploma,8.29
+878,Noe,Brenner,noe.brenner@widgetcorp.com,Sales,Director,7.643718546,61.69,Male,1,2011-05-10,2018-12-31,Active,128315.2,High School Diploma,9.54
+246,Chad,Quezada,chad.quezada@widgetcorp.com,Sales,VP,4.016968822,61.68,Male,4,2014-12-24,2018-12-31,Active,128294.4,Bachelor,5.91
+943,Eric,Gonzalez Lopez,eric.gonzalez lopez@widgetcorp.com,Sales,Director,8.614898737,61.38,Male,4,2010-05-20,2018-12-31,Active,127670.4,Some College,10.51
+628,Joshuah,Felberg,joshuah.felberg@widgetcorp.com,Sales,Manager,5.860124302,58.79,Male,5,2013-02-19,2018-12-31,Active,122283.2,High School Diploma,7.75
+854,Jeovanni,Lynn,jeovanni.lynn@widgetcorp.com,Sales,Director,7.445453244,58.4,Male,1,2011-07-21,2018-12-31,Active,121472,Bachelor,9.34
+406,Zachariah,Erickson,zachariah.erickson@widgetcorp.com,Sales,Director,4.815464295,58.19,Male,5,2014-03-08,2018-12-31,Active,121035.2,Some College,6.71
+709,Ty,Nielsen,ty.nielsen@widgetcorp.com,Sales,Associate,6.334435424,57.77,Male,1,2012-08-30,2018-12-31,Active,120161.6,Some College,8.23
+564,Robert,Fabela,robert.fabela@widgetcorp.com,Sales,Director,5.54033598,56.67,Male,4,2013-06-16,2018-12-31,Active,117873.6,Some College,7.43
+863,Cody,Hogan,cody.hogan@widgetcorp.com,Sales,Manager,7.526195714,56.12,Male,5,2011-06-22,2018-12-31,Active,116729.6,Bachelor,9.42
+320,Dhaki,el-Salem,dhaki.el-salem@widgetcorp.com,Sales,Manager,4.387888136,55.33,Male,6,2014-08-11,2018-12-31,Active,115086.4,Bachelor,6.28
+595,Landon,Sehnert,landon.sehnert@widgetcorp.com,Sales,Manager,5.678303514,54.86,Male,5,2013-04-26,2018-12-31,Active,114108.8,High School Diploma,7.57
+306,Mulbah,Herbert,mulbah.herbert@widgetcorp.com,Sales,Analyst,4.326546807,53.77,Male,3,2014-09-02,2018-12-31,Active,111841.6,High School Diploma,6.22
+788,Aden,Warren,aden.warren@widgetcorp.com,Sales,Manager,6.824266586,51.95,Male,3,2012-03-04,2018-12-31,Active,108056,High School Diploma,8.72
+852,Alexander,Quintana,alexander.quintana@widgetcorp.com,Sales,Manager,7.421117378,51.95,Male,4,2011-07-30,2018-12-31,Active,108056,Some College,9.31
+754,Luis,Mora,luis.mora@widgetcorp.com,Sales,Manager,6.60329914,51.47,Male,4,2012-05-24,2018-12-31,Active,107057.6,Some College,8.5
+602,Koi,Naylor,koi.naylor@widgetcorp.com,Sales,Manager,5.706959198,50.89,Male,1,2013-04-16,2018-12-31,Active,105851.2,Master,7.6
+798,Eric,Friedman,eric.friedman@widgetcorp.com,Sales,Manager,6.871082077,50.64,Male,3,2012-02-16,2018-12-31,Active,105331.2,Master,8.76
+832,Kari,John,kari.john@widgetcorp.com,Sales,VP,7.231710119,50.62,Female,1,2011-10-07,2018-12-31,Active,105289.6,Some College,9.13
+482,Jacobo,Hawkins,jacobo.hawkins@widgetcorp.com,Sales,Manager,5.155105221,50.56,Male,3,2013-11-04,2018-12-31,Active,105164.8,High School Diploma,7.05
+631,Peter,Isgreen,peter.isgreen@widgetcorp.com,Sales,VP,5.878910768,49.16,Male,5,2013-02-12,2018-12-31,Active,102252.8,Some College,7.77
+992,Lio,Stokes,lio.stokes@widgetcorp.com,Sales,VP,10.43272764,49.07,Female,2,2008-07-25,2018-12-31,Active,102065.6,Master,12.33
+822,Natayvia,Akins,natayvia.akins@widgetcorp.com,Sales,VP,7.138731446,48.62,Female,3,2011-11-10,2018-12-31,Active,101129.6,High School Diploma,9.03
+731,Alyce,Newton,alyce.newton@widgetcorp.com,Sales,VP,6.459398721,47.92,Female,3,2012-07-15,2018-12-31,Active,99673.6,Master,8.35
+510,Suhaib,el-Saad,suhaib.el-saad@widgetcorp.com,Sales,Associate,5.281973031,46.59,Male,6,2013-09-18,2018-12-31,Active,96907.2,High School Diploma,7.18
+175,Daawood,al-Zaidi,daawood.al-zaidi@widgetcorp.com,Sales,Manager,3.655941658,46.53,Male,6,2015-05-05,2018-12-31,Active,96782.4,High School Diploma,5.55
+269,Tony,Moua,tony.moua@widgetcorp.com,Sales,Associate,4.109026132,46.42,Male,2,2014-11-21,2018-12-31,Active,96553.6,High School Diploma,6
+833,Sandra,Rodriguez,sandra.rodriguez@widgetcorp.com,Sales,Director,7.23228728,46.25,Female,4,2011-10-07,2018-12-31,Active,96200,Some College,9.13
+460,Daniel,Bogle-Deherrera,daniel.bogle-deherrera@widgetcorp.com,Sales,Associate,5.038192955,46.18,Male,5,2013-12-16,2018-12-31,Active,96054.4,High School Diploma,6.93
+37,Jacob,Villalobos Gonzalez,jacob.villalobos gonzalez@widgetcorp.com,Sales,Associate,2.381348316,45.98,Male,4,2016-08-13,2018-12-31,Active,95638.4,Master,4.27
+906,Helena,Hansen,helena.hansen@widgetcorp.com,Sales,Director,8.102665347,45.53,Female,5,2010-11-23,2018-12-31,Active,94702.4,Some College,10
+758,Ryan,Buzbee,ryan.buzbee@widgetcorp.com,Sales,Associate,6.624992885,44.69,Male,5,2012-05-16,2018-12-31,Active,92955.2,PhD,8.52
+424,Jordan,Elliott,jordan.elliott@widgetcorp.com,Sales,Manager,4.890401221,44.4,Male,5,2014-02-08,2018-12-31,Active,92352,Bachelor,6.78
+875,Monica,Islamzai,monica.islamzai@widgetcorp.com,Sales,Director,7.631319304,43.98,Female,2,2011-05-14,2018-12-31,Active,91478.4,High School Diploma,9.52
+834,Amber,Wiles,amber.wiles@widgetcorp.com,Sales,Director,7.234632802,43.89,Female,5,2011-10-06,2018-12-31,Active,91291.2,Some College,9.13
+242,Blake,Connor,blake.connor@widgetcorp.com,Sales,Associate,3.999793633,42.76,Male,1,2014-12-31,2018-12-31,Active,88940.8,Bachelor,5.89
+506,Rebekah,Clark,rebekah.clark@widgetcorp.com,Sales,Director,5.265859416,42.76,Female,5,2013-09-24,2018-12-31,Active,88940.8,High School Diploma,7.16
+792,Urwa,el-Shaikh,urwa.el-shaikh@widgetcorp.com,Sales,Director,6.844859516,41.92,Female,6,2012-02-25,2018-12-31,Active,87193.6,Master,8.74
+55,Dale,Ruiz,dale.ruiz@widgetcorp.com,Sales,Analyst,2.596691214,41.33,Male,1,2016-05-26,2018-12-31,Active,85966.4,High School Diploma,4.49
+896,Kathryn,Mcmanus,kathryn.mcmanus@widgetcorp.com,Sales,Manager,7.953717837,40.82,Female,5,2011-01-16,2018-12-31,Active,84905.6,Master,9.85
+92,Tyler,Raibon,tyler.raibon@widgetcorp.com,Sales,Associate,3.042549154,39.87,Male,3,2015-12-15,2018-12-31,Active,82929.6,High School Diploma,4.94
+294,Richard,Zhou,richard.zhou@widgetcorp.com,Sales,Associate,4.234285196,39.39,Male,2,2014-10-06,2018-12-31,Active,81931.2,Some College,6.13
+67,Bassaam,al-Mustafa,bassaam.al-mustafa@widgetcorp.com,Sales,Analyst,2.79403133,39,Male,6,2016-03-15,2018-12-31,Active,81120,Bachelor,4.69
+61,Marquis,Willow,marquis.willow@widgetcorp.com,Sales,Associate,2.712409813,38.81,Male,1,2016-04-14,2018-12-31,Active,80724.8,High School Diploma,4.61
+959,Michelle,Zoetewey,michelle.zoetewey@widgetcorp.com,Sales,Manager,9.058144343,38.37,Female,5,2009-12-09,2018-12-31,Active,79809.6,Some College,10.95
+449,Samuel,Tibby,samuel.tibby@widgetcorp.com,Sales,Associate,4.993434587,38.15,Male,5,2014-01-02,2018-12-31,Active,79352,Bachelor,6.89
+34,Joshua,Umu,joshua.umu@widgetcorp.com,Sales,Analyst,2.36805666,38.02,Male,2,2016-08-18,2018-12-31,Active,79081.6,Bachelor,4.26
+715,Miriah,Acosta-Marquez,miriah.acosta-marquez@widgetcorp.com,Sales,Manager,6.350301892,37.91,Female,4,2012-08-24,2018-12-31,Active,78852.8,Bachelor,8.24
+212,Barry,Pham,barry.pham@widgetcorp.com,Sales,Analyst,3.834649634,37.79,Male,2,2015-03-01,2018-12-31,Active,78603.2,High School Diploma,5.73
+660,Thuanh,Pham,thuanh.pham@widgetcorp.com,Sales,Manager,6.060622674,37.55,Female,2,2012-12-08,2018-12-31,Active,78104,Master,7.95
+651,Megan,Chacon,megan.chacon@widgetcorp.com,Sales,Manager,5.974042034,37.13,Female,1,2013-01-08,2018-12-31,Active,77230.4,High School Diploma,7.87
+151,Schuyler,Victorino,schuyler.victorino@widgetcorp.com,Sales,Analyst,3.527046977,36.77,Male,2,2015-06-21,2018-12-31,Active,76481.6,High School Diploma,5.42
+283,Kevin,Jones,kevin.jones@widgetcorp.com,Sales,Analyst,4.170488078,36.28,Male,3,2014-10-29,2018-12-31,Active,75462.4,PhD,6.06
+345,Portia,Maddux,portia.maddux@widgetcorp.com,Sales,Manager,4.509017784,36.11,Female,1,2014-06-28,2018-12-31,Active,75108.8,Master,6.4
+241,Yeng,Dizon,yeng.dizon@widgetcorp.com,Sales,Associate,3.996852749,35.92,Male,2,2015-01-01,2018-12-31,Active,74713.6,Some College,5.89
+746,Sherry,Lone,sherry.lone@widgetcorp.com,Sales,Manager,6.498421114,35.88,Female,2,2012-07-01,2018-12-31,Active,74630.4,Master,8.39
+603,Eddie,Mcmurray,eddie.mcmurray@widgetcorp.com,Sales,Analyst,5.720363689,35.69,Male,4,2013-04-11,2018-12-31,Active,74235.2,PhD,7.61
+104,Jaylen,Cole,jaylen.cole@widgetcorp.com,Sales,Analyst,3.140629568,34.89,Male,3,2015-11-09,2018-12-31,Active,72571.2,Some College,5.03
+307,Rachel,Chau,rachel.chau@widgetcorp.com,Sales,Associate,4.328542009,34.53,Female,2,2014-09-02,2018-12-31,Active,71822.4,Some College,6.22
+204,Chalona,Wheatly,chalona.wheatly@widgetcorp.com,Sales,Associate,3.802502204,33.28,Female,3,2015-03-13,2018-12-31,Active,69222.4,Master,5.69
+534,Raeanne,Mendoza,raeanne.mendoza@widgetcorp.com,Sales,Associate,5.382947986,33.24,Female,4,2013-08-12,2018-12-31,Active,69139.2,Some College,7.28
+644,Michiyo,Kim,michiyo.kim@widgetcorp.com,Sales,Associate,5.92395943,33.09,Female,2,2013-01-27,2018-12-31,Active,68827.2,High School Diploma,7.82
+665,Sajiyya,al-Salahuddin,sajiyya.al-salahuddin@widgetcorp.com,Sales,Associate,6.090691134,32.96,Female,6,2012-11-27,2018-12-31,Active,68556.8,Bachelor,7.98
+704,Amy,Mccrum,amy.mccrum@widgetcorp.com,Sales,Associate,6.277411803,32.81,Female,4,2012-09-20,2018-12-31,Active,68244.8,High School Diploma,8.17
+574,Darryl,Hernley,darryl.hernley@widgetcorp.com,Sales,Analyst,5.566079992,32.72,Male,5,2013-06-06,2018-12-31,Active,68057.6,PhD,7.46
+635,Bradlie,Voliton,bradlie.voliton@widgetcorp.com,Sales,Associate,5.888880561,32.15,Female,3,2013-02-09,2018-12-31,Active,66872,Bachelor,7.78
+240,Larae,Rodriguez,larae.rodriguez@widgetcorp.com,Sales,Associate,3.98632189,31.95,Female,1,2015-01-04,2018-12-31,Active,66456,High School Diploma,5.88
+218,Aditya,Reza,aditya.reza@widgetcorp.com,Sales,Associate,3.89117469,31.73,Male,2,2015-02-08,2018-12-31,Active,65998.4,Some College,5.79
+419,Megan,Elliott-Dutt,megan.elliott-dutt@widgetcorp.com,Sales,Associate,4.869035461,31.52,Female,5,2014-02-16,2018-12-31,Active,65561.6,High School Diploma,6.76
+461,Ghaada,el-Mirza,ghaada.el-mirza@widgetcorp.com,Sales,Associate,5.043556403,31.3,Female,6,2013-12-14,2018-12-31,Active,65104,Some College,6.94
+459,Hameeda,al-Fahmy,hameeda.al-fahmy@widgetcorp.com,Sales,Associate,5.032690105,30.91,Female,6,2013-12-18,2018-12-31,Active,64292.8,High School Diploma,6.93
+697,Maris,Jackson,maris.jackson@widgetcorp.com,Sales,Associate,6.235095412,30.69,Female,3,2012-10-05,2018-12-31,Active,63835.2,High School Diploma,8.13
+7,Collin,Werner,collin.werner@widgetcorp.com,Sales,Analyst,1.487813532,30.68,Male,1,2017-07-05,2018-12-31,Active,63814.4,Some College,3.38
+892,Crystal,Lassiter,crystal.lassiter@widgetcorp.com,Sales,Analyst,7.898165827,30.3,Female,5,2011-02-06,2018-12-31,Active,63024,High School Diploma,9.79
+275,Alayina,Emley,alayina.emley@widgetcorp.com,Sales,Associate,4.130340822,30.28,Female,1,2014-11-13,2018-12-31,Active,62982.4,High School Diploma,6.02
+584,Quraish,el-Samara,quraish.el-samara@widgetcorp.com,Sales,Analyst,5.636907735,29.19,Male,6,2013-05-12,2018-12-31,Active,60715.2,High School Diploma,7.53
+124,Alyssa,Maez,alyssa.maez@widgetcorp.com,Sales,Analyst,3.334869264,29.09,Female,4,2015-08-30,2018-12-31,Active,60507.2,Bachelor,5.23
+626,Ruth,Lakin,ruth.lakin@widgetcorp.com,Sales,Analyst,5.855481079,28.77,Female,4,2013-02-21,2018-12-31,Active,59841.6,High School Diploma,7.75
+474,Morgan,Williams,morgan.williams@widgetcorp.com,Sales,Associate,5.133363619,28.57,Male,3,2013-11-12,2018-12-31,Active,59425.6,Some College,7.03
+366,Samantha,Madden,samantha.madden@widgetcorp.com,Sales,Analyst,4.627049141,28.06,Female,5,2014-05-15,2018-12-31,Active,58364.8,PhD,6.52
+118,Kaitlyn,Burgdorff,kaitlyn.burgdorff@widgetcorp.com,Sales,Analyst,3.2870035,27.95,Female,1,2015-09-17,2018-12-31,Active,58136,Bachelor,5.18
+499,Hadiyya,el-Mousa,hadiyya.el-mousa@widgetcorp.com,Sales,Analyst,5.225320972,27.87,Female,6,2013-10-09,2018-12-31,Active,57969.6,Some College,7.12
+113,Sarah,Roady,sarah.roady@widgetcorp.com,Sales,Analyst,3.241235972,27.84,Female,5,2015-10-04,2018-12-31,Active,57907.2,PhD,5.13
+143,Wei Dan,Quinn,wei dan.quinn@widgetcorp.com,Sales,Analyst,3.455899655,27.83,Female,2,2015-07-17,2018-12-31,Active,57886.4,Bachelor,5.35
+108,Aeneva,Redhorse,aeneva.redhorse@widgetcorp.com,Sales,Analyst,3.195880764,27.43,Female,1,2015-10-20,2018-12-31,Active,57054.4,Master,5.09
+285,Haley,Polk,haley.polk@widgetcorp.com,Sales,Analyst,4.171620871,27.3,Female,5,2014-10-29,2018-12-31,Active,56784,Some College,6.06
+623,Ashley,Bonser,ashley.bonser@widgetcorp.com,Sales,Analyst,5.831166999,27.06,Female,1,2013-03-02,2018-12-31,Active,56284.8,High School Diploma,7.72
+231,Kendra,Woldu,kendra.woldu@widgetcorp.com,Sales,Analyst,3.940396013,26.69,Female,3,2015-01-21,2018-12-31,Active,55515.2,Bachelor,5.83
+274,Madeline,Varela Duarte,madeline.varela duarte@widgetcorp.com,Sales,Analyst,4.127391902,26.68,Female,4,2014-11-14,2018-12-31,Active,55494.4,Some College,6.02
+213,Faraah,el-Kaiser,faraah.el-kaiser@widgetcorp.com,Sales,Analyst,3.837935324,25.7,Female,6,2015-02-28,2018-12-31,Active,53456,High School Diploma,5.73
+81,Sarah,Malarik,sarah.malarik@widgetcorp.com,Sales,Analyst,2.91326922,25.28,Female,5,2016-01-31,2018-12-31,Active,52582.4,High School Diploma,4.81
+60,Elly,Amphonephong,elly.amphonephong@widgetcorp.com,Sales,Analyst,2.687646729,24.63,Female,2,2016-04-23,2018-12-31,Active,51230.4,High School Diploma,4.58
+44,Joanna,Hatch,joanna.hatch@widgetcorp.com,Sales,Analyst,2.48610019,24.49,Female,2,2016-07-05,2018-12-31,Active,50939.2,High School Diploma,4.38
